@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_pc_controls",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_pc_controls",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

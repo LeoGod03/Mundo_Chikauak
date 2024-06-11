@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_global_variables",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_global_variables",
+  "parent":{
+    "name":"Constantes_y_globales",
+    "path":"folders/Scripts/Constantes_y_globales.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
