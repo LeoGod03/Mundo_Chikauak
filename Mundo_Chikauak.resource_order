@@ -46,6 +46,7 @@
     {"name":"Lugares","order":3,"path":"folders/Sprites/Lugares.yy",},
     {"name":"Minijuegos","order":7,"path":"folders/Sprites/Minijuegos.yy",},
     {"name":"Personajes","order":4,"path":"folders/Sprites/Personajes.yy",},
+    {"name":"Kei","order":1,"path":"folders/Sprites/Personajes/Kei.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"scr_global_variables","order":2,"path":"scripts/scr_global_variables/scr_global_variables.yy",},

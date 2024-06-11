@@ -56,13 +56,14 @@
     {"$GMFolder":"","%Name":"Lugares","folderPath":"folders/Sprites/Lugares.yy","name":"Lugares","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Minijuegos","folderPath":"folders/Sprites/Minijuegos.yy","name":"Minijuegos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Personajes","folderPath":"folders/Sprites/Personajes.yy","name":"Personajes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Kei","folderPath":"folders/Sprites/Personajes/Kei.yy","name":"Kei","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Leonardo","folderPath":"folders/Sprites/Personajes/Leonardo.yy","name":"Leonardo","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"Mundo_Chikauak",
   "resources":[
