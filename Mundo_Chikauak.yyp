@@ -56,13 +56,14 @@
     {"$GMFolder":"","%Name":"Lugares","folderPath":"folders/Sprites/Lugares.yy","name":"Lugares","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Minijuegos","folderPath":"folders/Sprites/Minijuegos.yy","name":"Minijuegos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Personajes","folderPath":"folders/Sprites/Personajes.yy","name":"Personajes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Kei","folderPath":"folders/Sprites/Personajes/Kei.yy","name":"Kei","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Leonardo","folderPath":"folders/Sprites/Personajes/Leonardo.yy","name":"Leonardo","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Mundo_Chikauak",
   "resources":[
@@ -75,6 +76,7 @@
     {"id":{"name":"scr_macros","path":"scripts/scr_macros/scr_macros.yy",},},
     {"id":{"name":"scr_movement_grid","path":"scripts/scr_movement_grid/scr_movement_grid.yy",},},
     {"id":{"name":"scr_pc_controls","path":"scripts/scr_pc_controls/scr_pc_controls.yy",},},
+    {"id":{"name":"spr_kei_idle","path":"sprites/spr_kei_idle/spr_kei_idle.yy",},},
     {"id":{"name":"spr_leonardo_idle","path":"sprites/spr_leonardo_idle/spr_leonardo_idle.yy",},},
     {"id":{"name":"spr_leonardo_walking_down_left","path":"sprites/spr_leonardo_walking_down_left/spr_leonardo_walking_down_left.yy",},},
     {"id":{"name":"spr_leonardo_walking_down_right","path":"sprites/spr_leonardo_walking_down_right/spr_leonardo_walking_down_right.yy",},},
