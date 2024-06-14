@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_parking",
   "bboxMode":0,
-  "bbox_bottom":95,
+  "bbox_bottom":255,
   "bbox_left":0,
   "bbox_right":251,
   "bbox_top":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"09b96031-3b68-4a7c-89b7-ee5355820f84","name":"09b96031-3b68-4a7c-89b7-ee5355820f84","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c352bc8b-f332-4077-ae2b-88ddbb8410ad","name":"c352bc8b-f332-4077-ae2b-88ddbb8410ad","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":96,
+  "height":256,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"611b0b2a-886d-4cac-a874-3789645b67f7","blendMode":0,"displayName":"default","isLocked":false,"name":"611b0b2a-886d-4cac-a874-3789645b67f7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"956e7414-f583-4741-99ae-14833ca9dce8","blendMode":0,"displayName":"default","isLocked":false,"name":"956e7414-f583-4741-99ae-14833ca9dce8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_parking",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"09b96031-3b68-4a7c-89b7-ee5355820f84","path":"sprites/spr_parking/spr_parking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e981ca74-4d7f-4470-b447-dc3200da84b8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c352bc8b-f332-4077-ae2b-88ddbb8410ad","path":"sprites/spr_parking/spr_parking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"1e7c7f44-b0a2-4826-84ff-fdaf5bfe4ae2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
