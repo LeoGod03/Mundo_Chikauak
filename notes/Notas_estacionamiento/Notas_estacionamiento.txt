@@ -1,0 +1,20 @@
+Estacionamiento
+portón de  entrada y salida : 224 * 96
+Entrada alumnos : 96 * 96
+Caseta policías: 128 * 96
+rejilla : 160 * 96
+rejilla 2: 128 * 96
+parking: 252 * 96 (necesitamos 2)
+letras UACM: 64* 96
+Árbol llorón: 64 * 128
+Magueyes: 64 * 64
+Rectoría: 480 * 96
+Edificio D: 224 * 96
+Edificio E: 256 * 96
+Pavimento background: 64 * 64
+Policias (2 tomando la plantilla de humano)
+
+
+Funciones:
+Dialogos (Pjs)
+Dialogos (Narrador)
