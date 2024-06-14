@@ -102,6 +102,8 @@
     {"id":{"name":"scr_macros","path":"scripts/scr_macros/scr_macros.yy",},},
     {"id":{"name":"scr_movement_grid","path":"scripts/scr_movement_grid/scr_movement_grid.yy",},},
     {"id":{"name":"scr_pc_controls","path":"scripts/scr_pc_controls/scr_pc_controls.yy",},},
+    {"id":{"name":"scr_split_pages_text","path":"scripts/scr_split_pages_text/scr_split_pages_text.yy",},},
+    {"id":{"name":"scr_split_text","path":"scripts/scr_split_text/scr_split_text.yy",},},
     {"id":{"name":"PoliceFemale_Idle","path":"sprites/PoliceFemale_Idle/PoliceFemale_Idle.yy",},},
     {"id":{"name":"PoliceFemale_Run_Down","path":"sprites/PoliceFemale_Run_Down/PoliceFemale_Run_Down.yy",},},
     {"id":{"name":"PoliceMale_Idle","path":"sprites/PoliceMale_Idle/PoliceMale_Idle.yy",},},
