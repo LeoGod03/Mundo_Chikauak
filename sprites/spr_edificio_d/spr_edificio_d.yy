@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":91,
   "bbox_left":0,
-  "bbox_right":191,
+  "bbox_right":223,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"47716bb5-0b5b-42fe-9715-9f0b1b703084","name":"47716bb5-0b5b-42fe-9715-9f0b1b703084","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d6746818-78c2-4201-899b-571e7570a8e9","name":"d6746818-78c2-4201-899b-571e7570a8e9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":92,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"8ed21fec-7af6-48e8-9945-2a3d6b02b10e","blendMode":0,"displayName":"default","isLocked":false,"name":"8ed21fec-7af6-48e8-9945-2a3d6b02b10e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"6653f546-dd62-43dc-822f-6b57090ab34d","blendMode":0,"displayName":"default","isLocked":false,"name":"6653f546-dd62-43dc-822f-6b57090ab34d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_edificio_d",
   "nineSlice":null,
-  "origin":4,
+  "origin":0,
   "parent":{
     "name":"Estructuras",
     "path":"folders/Sprites/Lugares/Estacionamiento/Estructuras.yy",
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"47716bb5-0b5b-42fe-9715-9f0b1b703084","path":"sprites/spr_edificio_d/spr_edificio_d.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d731e4f1-f908-4e88-a2f8-a7874e1796d2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d6746818-78c2-4201-899b-571e7570a8e9","path":"sprites/spr_edificio_d/spr_edificio_d.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"cc7fae36-c58b-4b5e-98d5-55fed8229eca","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":96,
-    "yorigin":46,
+    "xorigin":0,
+    "yorigin":0,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":192,
+  "width":224,
 }
