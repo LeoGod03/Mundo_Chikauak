@@ -1,8 +1,8 @@
 {
   "$GMSprite":"",
   "%Name":"spr_caseta",
-  "bboxMode":0,
-  "bbox_bottom":111,
+  "bboxMode":2,
+  "bbox_bottom":95,
   "bbox_left":0,
   "bbox_right":127,
   "bbox_top":0,
