@@ -18,3 +18,7 @@ Policias (2 tomando la plantilla de humano)
 Funciones:
 Dialogos (Pjs)
 Dialogos (Narrador)
+Animacion del carro(Viego-Listo)
+Modificacion de los edificios(Viego-Listo) 
+Arbol triste(Viego)
+Modificacion de los carros(viego_Listo)
