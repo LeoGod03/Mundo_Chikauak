@@ -20,3 +20,8 @@ if(state == STATE.IDLE)
     image_speed = 1;
     sprite_index = sprites_walking[?direction];   
 }
+
+if(keyboard_check_pressed(vk_escape))
+{
+    window_set_fullscreen(!window_get_fullscreen());
+}
