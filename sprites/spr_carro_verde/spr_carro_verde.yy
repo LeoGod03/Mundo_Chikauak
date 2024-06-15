@@ -33,7 +33,7 @@
   "origin":0,
   "parent":{
     "name":"coche verde",
-    "path":"folders/Sprites/Lugares/Estacionamiento/Estructuras/Coches/coche verde.yy",
+    "path":"folders/Sprites/Coches/coche verde.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

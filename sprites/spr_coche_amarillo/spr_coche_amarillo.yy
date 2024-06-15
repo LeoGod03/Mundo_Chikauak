@@ -33,7 +33,7 @@
   "origin":0,
   "parent":{
     "name":"coche amarillo",
-    "path":"folders/Sprites/Lugares/Estacionamiento/Estructuras/Coches/coche amarillo.yy",
+    "path":"folders/Sprites/Coches/coche amarillo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

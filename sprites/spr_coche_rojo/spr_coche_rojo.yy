@@ -30,7 +30,7 @@
   "origin":0,
   "parent":{
     "name":"coche rojo",
-    "path":"folders/Sprites/Lugares/Estacionamiento/Estructuras/Coches/coche rojo.yy",
+    "path":"folders/Sprites/Coches/coche rojo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

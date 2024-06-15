@@ -57,7 +57,7 @@
   "origin":0,
   "parent":{
     "name":"coche negro",
-    "path":"folders/Sprites/Lugares/Estacionamiento/Estructuras/Coches/coche negro.yy",
+    "path":"folders/Sprites/Coches/coche negro.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
