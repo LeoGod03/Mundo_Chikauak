@@ -109,6 +109,7 @@
     {"id":{"name":"PoliceFemale_Idle","path":"sprites/PoliceFemale_Idle/PoliceFemale_Idle.yy",},},
     {"id":{"name":"PoliceFemale_Run_Down","path":"sprites/PoliceFemale_Run_Down/PoliceFemale_Run_Down.yy",},},
     {"id":{"name":"PoliceMale_Idle","path":"sprites/PoliceMale_Idle/PoliceMale_Idle.yy",},},
+    {"id":{"name":"spr_banqueta_final","path":"sprites/spr_banqueta_final/spr_banqueta_final.yy",},},
     {"id":{"name":"spr_carro_amarillo_moviendose","path":"sprites/spr_carro_amarillo_moviendose/spr_carro_amarillo_moviendose.yy",},},
     {"id":{"name":"spr_carro_negro_moviendose","path":"sprites/spr_carro_negro_moviendose/spr_carro_negro_moviendose.yy",},},
     {"id":{"name":"spr_carro_rojo_moviendose","path":"sprites/spr_carro_rojo_moviendose/spr_carro_rojo_moviendose.yy",},},
