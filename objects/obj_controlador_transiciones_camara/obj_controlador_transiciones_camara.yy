@@ -1,24 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_leonardo",
+  "%Name":"obj_controlador_transiciones_camara",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_leonardo",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"velocity","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
-  ],
+  "name":"obj_controlador_transiciones_camara",
+  "overriddenProperties":[],
   "parent":{
-    "name":"Players",
-    "path":"folders/Objetos/Players.yy",
+    "name":"Controllers",
+    "path":"folders/Objetos/Controllers.yy",
   },
-  "parentObjectId":{
-    "name":"obj_human",
-    "path":"objects/obj_human/obj_human.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -36,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_leonardo_idle",
-    "path":"sprites/spr_leonardo_idle/spr_leonardo_idle.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
