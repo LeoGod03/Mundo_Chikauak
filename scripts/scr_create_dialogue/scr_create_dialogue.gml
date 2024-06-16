@@ -1,4 +1,7 @@
-function scr_create_dialogue(_dialogue, _players_list, _order_talking){
+function scr_create_dialogue(_dialogue, _players_list, _order_talking)
+{
+    if(instance_exists(obj_controlador_dialogos))
+        exit;
     
     var _controlador = instance_create_depth(0, 0 ,-1, obj_controlador_dialogos);
     
