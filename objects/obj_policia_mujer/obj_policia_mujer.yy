@@ -4,12 +4,17 @@
   "eventList":[],
   "managed":true,
   "name":"obj_policia_mujer",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"name","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Kimberly\"",},
+  ],
   "parent":{
     "name":"Policias",
     "path":"folders/Objetos/NPC/Policias.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_human",
+    "path":"objects/obj_human/obj_human.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

@@ -65,6 +65,7 @@
     {"name":"obj_entrada_alumnos","order":2,"path":"objects/obj_entrada_alumnos/obj_entrada_alumnos.yy",},
     {"name":"obj_entradasalida_coche","order":3,"path":"objects/obj_entradasalida_coche/obj_entradasalida_coche.yy",},
     {"name":"obj_letras_uacm","order":8,"path":"objects/obj_letras_uacm/obj_letras_uacm.yy",},
+    {"name":"obj_pared","order":1,"path":"objects/obj_pared/obj_pared.yy",},
     {"name":"obj_parking","order":7,"path":"objects/obj_parking/obj_parking.yy",},
     {"name":"obj_policia_mujer","order":1,"path":"objects/obj_policia_mujer/obj_policia_mujer.yy",},
     {"name":"obj_rectoria","order":4,"path":"objects/obj_rectoria/obj_rectoria.yy",},

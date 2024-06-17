@@ -8,8 +8,8 @@
   "name":"obj_pared",
   "overriddenProperties":[],
   "parent":{
-    "name":"Estructuras",
-    "path":"folders/Objetos/Estructuras.yy",
+    "name":"Parents",
+    "path":"folders/Objetos/Parents.yy",
   },
   "parentObjectId":null,
   "persistent":false,

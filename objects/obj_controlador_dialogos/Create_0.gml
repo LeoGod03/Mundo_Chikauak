@@ -17,3 +17,5 @@ pages = [];
 page = 0;
 
 show_text = false;
+
+depth = -room_height;
