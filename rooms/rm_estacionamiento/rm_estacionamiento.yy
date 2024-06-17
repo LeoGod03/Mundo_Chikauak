@@ -38,6 +38,7 @@
     {"name":"inst_49309E2F","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},
     {"name":"inst_2CA961A9","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},
     {"name":"inst_6946FE01","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},
+    {"name":"inst_3992E66D","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -81,6 +82,7 @@
         {"$GMRInstance":"","%Name":"inst_49309E2F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_49309E2F","objectId":{"name":"obj_pared","path":"objects/obj_pared/obj_pared.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-27.0,"y":633.0,},
         {"$GMRInstance":"","%Name":"inst_2CA961A9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2CA961A9","objectId":{"name":"obj_parking","path":"objects/obj_parking/obj_parking.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":676.0,"y":210.0,},
         {"$GMRInstance":"","%Name":"inst_6946FE01","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6946FE01","objectId":{"name":"obj_parking","path":"objects/obj_parking/obj_parking.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-199.0,"y":210.0,},
+        {"$GMRInstance":"","%Name":"inst_3992E66D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3992E66D","objectId":{"name":"obj_coche_amarrillo","path":"objects/obj_coche_amarrillo/obj_coche_amarrillo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":153.0,"y":419.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_pavimento","path":"sprites/spr_pavimento/spr_pavimento.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],

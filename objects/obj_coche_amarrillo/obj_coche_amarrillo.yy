@@ -1,24 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_leonardo",
+  "%Name":"obj_coche_amarrillo",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":8,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_leonardo",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"velocity","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
-  ],
+  "name":"obj_coche_amarrillo",
+  "overriddenProperties":[],
   "parent":{
-    "name":"Players",
-    "path":"folders/Objetos/Players.yy",
+    "name":"Coches",
+    "path":"folders/Objetos/Estructuras/Coches.yy",
   },
-  "parentObjectId":{
-    "name":"obj_human",
-    "path":"objects/obj_human/obj_human.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -37,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_leonardo_idle",
-    "path":"sprites/spr_leonardo_idle/spr_leonardo_idle.yy",
+    "name":"spr_coche_amarillo_moving_up",
+    "path":"sprites/spr_coche_amarillo_moving_up/spr_coche_amarillo_moving_up.yy",
   },
   "spriteMaskId":null,
   "visible":true,
