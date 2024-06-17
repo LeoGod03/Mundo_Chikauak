@@ -83,11 +83,12 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Mundo_Chikauak",
   "resources":[
     {"id":{"name":"fnt_dialogos","path":"fonts/fnt_dialogos/fnt_dialogos.yy",},},
+    {"id":{"name":"fnt_narrador","path":"fonts/fnt_narrador/fnt_narrador.yy",},},
     {"id":{"name":"Notas_estacionamiento","path":"notes/Notas_estacionamiento/Notas_estacionamiento.yy",},},
     {"id":{"name":"obj_caseta","path":"objects/obj_caseta/obj_caseta.yy",},},
     {"id":{"name":"obj_controlador_dialogos","path":"objects/obj_controlador_dialogos/obj_controlador_dialogos.yy",},},

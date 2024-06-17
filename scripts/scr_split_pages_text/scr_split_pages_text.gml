@@ -1,10 +1,10 @@
-function scr_split_pages_text(_text, _separation, _width, _height)
+function scr_split_pages_text(_text, _font, _separation, _width, _height)
 {
 	var _pages = []; // los textos en renglones
 	var _page = ""; // auxiliar para generar renglón
-	var _words = scr_split_text(_text, " "); // obtiene el numero de palabras del texto
+	var _words = scr_split_text(_text, " "); // separa el texto en palabras mas pequeñas, devuelve un arreglo de estas 
 	//string_split()
-	
+	draw_set_font(_font);
 	for(var _index = 0; _index < array_length(_words); _index++)
 	{
 			var _word = _words[_index]; // auxiliar con la palbra

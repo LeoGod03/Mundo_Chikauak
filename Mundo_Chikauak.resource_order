@@ -57,6 +57,7 @@
     {"name":"Male","order":2,"path":"folders/Sprites/Personajes/Policias/Male.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"fnt_narrador","order":1,"path":"fonts/fnt_narrador/fnt_narrador.yy",},
     {"name":"obj_caseta","order":6,"path":"objects/obj_caseta/obj_caseta.yy",},
     {"name":"obj_controlador_narrador","order":1,"path":"objects/obj_controlador_narrador/obj_controlador_narrador.yy",},
     {"name":"obj_controlador_transiciones_camara","order":2,"path":"objects/obj_controlador_transiciones_camara/obj_controlador_transiciones_camara.yy",},
