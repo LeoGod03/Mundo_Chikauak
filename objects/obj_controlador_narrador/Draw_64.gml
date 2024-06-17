@@ -1,5 +1,8 @@
 /// @description Creacion del rectangulo 
-
+if(pages==noone)
+{
+	exit;
+}
 var _screen_width = display_get_width();
 var _screen_height = display_get_height();
 
@@ -19,4 +22,4 @@ draw_set_color(c_white);
 draw_rectangle(_rect_x, _rect_y, _rect_x + _rect_width, _rect_y + _rect_height, false); 
 
 draw_set_color(c_black);
-draw_text_ext(_rect_x+5,_rect_y+5,text_on_display,20,screen_widht);
+draw_text_ext(_rect_x+5,_rect_y+5,text_on_display,text_separation,screen_widht);
