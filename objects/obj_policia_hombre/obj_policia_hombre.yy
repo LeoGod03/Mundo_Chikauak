@@ -8,7 +8,7 @@
   "managed":true,
   "name":"obj_policia_hombre",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"name","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Omar\"",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"name","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Omar\"",},
   ],
   "parent":{
     "name":"Policias",

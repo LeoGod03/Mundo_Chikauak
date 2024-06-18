@@ -1,5 +1,9 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
+if(pages==noone)
+{
+	exit;
+}
 if(text_on_display!=pages[page])
 {
 	text_on_display=pages[page];
