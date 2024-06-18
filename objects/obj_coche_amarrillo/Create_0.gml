@@ -1,3 +1,6 @@
+
+velocity = 0;
+
 ruta = noone;
 movement = false;
 image_xscale = 2;

@@ -14,7 +14,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Coches",
-    "path":"folders/Objetos/Estructuras/Coches.yy",
+    "path":"folders/Objetos/Coches.yy",
   },
   "parentObjectId":null,
   "persistent":false,
