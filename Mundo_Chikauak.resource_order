@@ -58,6 +58,9 @@
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_narrador","order":1,"path":"fonts/fnt_narrador/fnt_narrador.yy",},
+    {"name":"obj_arbol_dos","order":11,"path":"objects/obj_arbol_dos/obj_arbol_dos.yy",},
+    {"name":"obj_arbol_tres","order":12,"path":"objects/obj_arbol_tres/obj_arbol_tres.yy",},
+    {"name":"obj_arbol_uno","order":10,"path":"objects/obj_arbol_uno/obj_arbol_uno.yy",},
     {"name":"obj_banqueta","order":9,"path":"objects/obj_banqueta/obj_banqueta.yy",},
     {"name":"obj_caseta","order":6,"path":"objects/obj_caseta/obj_caseta.yy",},
     {"name":"obj_controlador_narrador","order":1,"path":"objects/obj_controlador_narrador/obj_controlador_narrador.yy",},
