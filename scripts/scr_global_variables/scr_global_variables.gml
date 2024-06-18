@@ -11,4 +11,10 @@ function scr_global_variables()
     };
     
     // mas variables globales xD
+    global.points_parking = ds_map_create();
+    
+    global.points_parking[?594] = [608, 672]; // decirle que en y 434 los puntos son 608, 512
+
+	// variable del tablero
+	global.table = noone;
 }
