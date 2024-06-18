@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_parking",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_parking",
   "overriddenProperties":[],
@@ -9,7 +11,10 @@
     "name":"Estacionamiento",
     "path":"folders/Objetos/Estructuras/Estacionamiento.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_pared",
+    "path":"objects/obj_pared/obj_pared.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

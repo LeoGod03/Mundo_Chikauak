@@ -9,7 +9,10 @@
     "name":"Estacionamiento",
     "path":"folders/Objetos/Estructuras/Estacionamiento.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_pared",
+    "path":"objects/obj_pared/obj_pared.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
