@@ -3,8 +3,8 @@ if(pages==noone)
 {
 	exit;
 }
-var _screen_width = 1920;//display_get_width();
-var _screen_height = 1080;//display_get_height();
+var _screen_width =display_get_gui_width(); //1920;
+var _screen_height =display_get_gui_height(); //1080;
 
 var _rect_width = _screen_width; //Ancho del rectangulo 
 var _rect_height = _screen_height * 0.20; //Alto del rectangulo calculado al 20%
