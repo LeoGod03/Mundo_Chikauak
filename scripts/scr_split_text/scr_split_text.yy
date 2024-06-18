@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_split_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_split_text",
+  "parent":{
+    "name":"Textos",
+    "path":"folders/Scripts/Textos.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
