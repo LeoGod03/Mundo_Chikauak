@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_banqueta",
-    "path":"sprites/spr_banqueta/spr_banqueta.yy",
+    "name":"spr_parking_banqueta",
+    "path":"sprites/spr_parking_banqueta/spr_parking_banqueta.yy",
   },
   "spriteMaskId":null,
   "visible":true,

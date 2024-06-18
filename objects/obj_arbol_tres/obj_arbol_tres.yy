@@ -6,8 +6,8 @@
   "name":"obj_arbol_tres",
   "overriddenProperties":[],
   "parent":{
-    "name":"Estacionamiento",
-    "path":"folders/Objetos/Estructuras/Estacionamiento.yy",
+    "name":"Naturaleza",
+    "path":"folders/Objetos/Naturaleza.yy",
   },
   "parentObjectId":{
     "name":"obj_pared",
