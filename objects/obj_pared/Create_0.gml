@@ -1,2 +1,2 @@
 /// @description profundidad
-depth = -y;
+depth = -(y + sprite_xoffset);
