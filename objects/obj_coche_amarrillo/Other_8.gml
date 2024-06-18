@@ -1,20 +1,13 @@
 /// @description Inserte el evento del policia
 //instance_destroy();
+
 var _list = [[608, 160], [720, 160]];
-if(step == 0)
+destinity_x = -1;
+destinity_y = -1;
+
+if(step < 2)
 {
-    ruta=path_add();
-    mp_potential_path(ruta,_list[step][0] ,_list[step][1], 1 ,8,false);
-    path_start(ruta,1,path_action_stop,false);	
-    movement = true;
-    step ++;
-}else if(step == 1)
-{
-   
-    ruta=path_add();
-    mp_potential_path(ruta,_list[step][0] ,_list[step][1], 1 ,8,false);
-    path_start(ruta,1,path_action_stop,false);	
-    movement = true;
-     step ++;
+	create_path(_list[step][0],_list[step][1]);
+	
 }else
     instance_destroy();

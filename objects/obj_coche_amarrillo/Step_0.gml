@@ -1,6 +1,6 @@
 if(movement)
-{   
-    
+{  
+	
 	if(direction>=345 || direction<40)
 	{ 
 		sprite_index = spr_coche_amarillo_moving_right;
@@ -26,4 +26,5 @@ if(movement)
 	{
 		sprite_index = spr_coche_amarillo_moving_down_right;	
 	} 	
+
 }

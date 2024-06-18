@@ -58,6 +58,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_narrador","order":1,"path":"fonts/fnt_narrador/fnt_narrador.yy",},
+    {"name":"obj_banqueta","order":9,"path":"objects/obj_banqueta/obj_banqueta.yy",},
     {"name":"obj_caseta","order":6,"path":"objects/obj_caseta/obj_caseta.yy",},
     {"name":"obj_controlador_narrador","order":1,"path":"objects/obj_controlador_narrador/obj_controlador_narrador.yy",},
     {"name":"obj_controlador_transiciones_camara","order":2,"path":"objects/obj_controlador_transiciones_camara/obj_controlador_transiciones_camara.yy",},
@@ -81,6 +82,7 @@
     {"name":"scr_split_text","order":3,"path":"scripts/scr_split_text/scr_split_text.yy",},
     {"name":"PoliceFemale_Run_Down","order":1,"path":"sprites/PoliceFemale_Run_Down/PoliceFemale_Run_Down.yy",},
     {"name":"spr_banqueta_final","order":3,"path":"sprites/spr_banqueta_final/spr_banqueta_final.yy",},
+    {"name":"spr_banqueta","order":13,"path":"sprites/spr_banqueta/spr_banqueta.yy",},
     {"name":"spr_caseta","order":6,"path":"sprites/spr_caseta/spr_caseta.yy",},
     {"name":"spr_edificio_d","order":4,"path":"sprites/spr_edificio_d/spr_edificio_d.yy",},
     {"name":"spr_edificio_e","order":5,"path":"sprites/spr_edificio_e/spr_edificio_e.yy",},
