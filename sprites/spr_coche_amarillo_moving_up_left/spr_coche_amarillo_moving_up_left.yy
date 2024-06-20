@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_coche_amarillo_moving_top_left",
+  "%Name":"spr_coche_amarillo_moving_up_left",
   "bboxMode":0,
   "bbox_bottom":30,
   "bbox_left":18,
@@ -25,7 +25,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"04d9c936-ba7d-449b-813f-4370d0f37415","blendMode":0,"displayName":"default","isLocked":false,"name":"04d9c936-ba7d-449b-813f-4370d0f37415","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_coche_amarillo_moving_top_left",
+  "name":"spr_coche_amarillo_moving_up_left",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -37,7 +37,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_coche_amarillo_moving_top_left",
+    "%Name":"spr_coche_amarillo_moving_up_left",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -61,7 +61,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_coche_amarillo_moving_top_left",
+    "name":"spr_coche_amarillo_moving_up_left",
     "playback":1,
     "playbackSpeed":2.0,
     "playbackSpeedType":0,
@@ -73,19 +73,19 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"33ef2c60-9658-4dc6-a225-846a89f56bd4","path":"sprites/spr_coche_amarillo_moving_top_left/spr_coche_amarillo_moving_top_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"33ef2c60-9658-4dc6-a225-846a89f56bd4","path":"sprites/spr_coche_amarillo_moving_up_left/spr_coche_amarillo_moving_up_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"7d66d472-9018-4529-8c75-3a8f0917e293","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7186f2fb-2ad1-4629-bb27-9230aa23ba0e","path":"sprites/spr_coche_amarillo_moving_top_left/spr_coche_amarillo_moving_top_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7186f2fb-2ad1-4629-bb27-9230aa23ba0e","path":"sprites/spr_coche_amarillo_moving_up_left/spr_coche_amarillo_moving_up_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"caaf7770-a37e-43c8-bf1d-a2f454828888","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"eb2bbb24-b684-4be0-9cc6-b2f34f7fc958","path":"sprites/spr_coche_amarillo_moving_top_left/spr_coche_amarillo_moving_top_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"eb2bbb24-b684-4be0-9cc6-b2f34f7fc958","path":"sprites/spr_coche_amarillo_moving_up_left/spr_coche_amarillo_moving_up_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d48ff5be-b239-4707-84bc-c78d4f49bc59","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d69d435b-59bb-40ba-b007-9a5198e565d4","path":"sprites/spr_coche_amarillo_moving_top_left/spr_coche_amarillo_moving_top_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d69d435b-59bb-40ba-b007-9a5198e565d4","path":"sprites/spr_coche_amarillo_moving_up_left/spr_coche_amarillo_moving_up_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f9da746b-f0c0-4a04-b7e9-edd824eda072","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a57c0ef9-2d3b-473f-b728-d0d72d10472d","path":"sprites/spr_coche_amarillo_moving_top_left/spr_coche_amarillo_moving_top_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a57c0ef9-2d3b-473f-b728-d0d72d10472d","path":"sprites/spr_coche_amarillo_moving_up_left/spr_coche_amarillo_moving_up_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"033cd9f2-65e4-45d6-997d-eb2640cdff9b","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
