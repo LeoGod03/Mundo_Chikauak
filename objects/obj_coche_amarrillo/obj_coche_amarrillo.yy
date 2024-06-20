@@ -16,7 +16,10 @@
     "name":"Coches",
     "path":"folders/Objetos/Coches.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_coche",
+    "path":"objects/obj_coche/obj_coche.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

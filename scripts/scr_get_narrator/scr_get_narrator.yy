@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_get_narrator",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_narrator",
+  "parent":{
+    "name":"Funcionalidad",
+    "path":"folders/Scripts/Funcionalidad.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -6,13 +6,13 @@ if(movement)
 		sprite_index = spr_coche_amarillo_moving_right;
 	}else if(direction>=40 && direction<45)
 	{
-		sprite_index = spr_coche_amarillo_moving_top_right;
+		sprite_index = spr_coche_amarillo_moving_up_right;
 	}else if(direction>=45 && direction<125)
 	{
 		sprite_index = spr_coche_amarillo_moving_up;
 	}else if(direction>=125 && direction<130)
 	{
-		sprite_index = spr_coche_amarillo_moving_top_left;
+		sprite_index = spr_coche_amarillo_moving_up_left;
 	}else if(direction>=130 && direction<215)
 	{
 		sprite_index = spr_coche_amarillo_moving_left;

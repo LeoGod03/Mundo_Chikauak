@@ -10,17 +10,30 @@ function scr_global_variables()
         inventory: ord("i")
     };
     
-    // mas variables globales xD
-    global.points_parking = ds_map_create();
-    
-    global.points_parking[?594] = [608, 672]; // decirle que en y 434 los puntos son 608, 512
 
 	// variable del tablero
 	global.table = noone;
-	
-	//variables para el parking de lado sur 
-	global.points_parking_sur = ds_map_create();
-	global.points_parking_sur[?429]= [28,311];
-	
-	
+    
+    global.place_parkin_y[0] = 416;
+    global.place_parkin_y[1] = 608;
+    
+    // posiciones x parking lado izquierdo
+    global.place_parkin_x[0] = 32;
+    global.place_parkin_x[1] = 96;
+    global.place_parkin_x[2] = 160;
+    global.place_parkin_x[3] = 224;
+    
+    // posiciones parking lado derecho
+    global.place_parkin_x[4] = 864;
+    global.place_parkin_x[5] = 928;
+    global.place_parkin_x[6] = 992; 
+    
+    
+    
+    
+    // arreglo de booleanos que nos diran si el lugar ya esta apartado
+    global.place_parkin_free = array_create(14, false);
+    
+    global.points_exit[0] = [[816, 352], [816, 288]];
+    
 }
