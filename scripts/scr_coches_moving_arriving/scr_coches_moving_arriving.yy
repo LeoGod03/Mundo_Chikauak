@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_coches_moving_arriving",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_coches_moving_arriving",
+  "parent":{
+    "name":"Coches",
+    "path":"folders/Scripts/Coches.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

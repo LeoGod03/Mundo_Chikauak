@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_ruta_coche",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ruta_coche",
+  "parent":{
+    "name":"Coches",
+    "path":"folders/Scripts/Coches.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
