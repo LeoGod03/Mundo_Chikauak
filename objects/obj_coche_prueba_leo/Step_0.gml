@@ -1,23 +1,14 @@
 if(state == STATE.RUN)
 {  
+    image_speed = 1;
     scr_animation_car("spr_coche_amarillo");
-	distance -= velocity;
     
-    if(distance > 0) exit; // se sigue moviendo entonces nos salimos del código
     
+   
+	
+}else if(state == STATE.IDLE)
+{
+    image_speed = 0;
+    image_index = 0;
     speed = 0;
-    
-    
-    if(index_points > array_length(points) - 1)  exit; // si ya recorrio todos los puntos se sale
-
-    
-    if(movement) exit; // si ya mando a llamar a la alarma se sale
-    
-    movement = true;
-    
-    alarm[1] = 1 // se llama la alarma en 1 frame
-    
-    
-  
-
 }

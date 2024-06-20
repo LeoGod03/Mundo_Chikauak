@@ -6,7 +6,8 @@ function scr_enums()
        IDLE,
        WALKING,
        RUN,
-       LOADING 
+       LOADING ,
+       PARKED
     }
     
   

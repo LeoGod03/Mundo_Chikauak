@@ -39,7 +39,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_coche_amarillo_moving_up",
     "path":"sprites/spr_coche_amarillo_moving_up/spr_coche_amarillo_moving_up.yy",
