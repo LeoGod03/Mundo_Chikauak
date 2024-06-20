@@ -63,8 +63,12 @@
     {"name":"obj_arbol_tres","order":1,"path":"objects/obj_arbol_tres/obj_arbol_tres.yy",},
     {"name":"obj_banqueta","order":9,"path":"objects/obj_banqueta/obj_banqueta.yy",},
     {"name":"obj_caseta","order":6,"path":"objects/obj_caseta/obj_caseta.yy",},
+<<<<<<< HEAD
     {"name":"obj_coche_prueba_leo","order":1,"path":"objects/obj_coche_prueba_leo/obj_coche_prueba_leo.yy",},
     {"name":"obj_coche","order":2,"path":"objects/obj_coche/obj_coche.yy",},
+=======
+    {"name":"obj_coche_rojo","order":1,"path":"objects/obj_coche_rojo/obj_coche_rojo.yy",},
+>>>>>>> parent of 3f125bf (funciones de coches)
     {"name":"obj_controlador_narrador","order":1,"path":"objects/obj_controlador_narrador/obj_controlador_narrador.yy",},
     {"name":"obj_controlador_transiciones_camara","order":2,"path":"objects/obj_controlador_transiciones_camara/obj_controlador_transiciones_camara.yy",},
     {"name":"obj_edificio_e","order":1,"path":"objects/obj_edificio_e/obj_edificio_e.yy",},
