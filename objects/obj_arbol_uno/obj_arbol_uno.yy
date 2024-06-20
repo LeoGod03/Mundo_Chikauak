@@ -29,7 +29,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_arbol_con_nido",
     "path":"sprites/spr_arbol_con_nido/spr_arbol_con_nido.yy",

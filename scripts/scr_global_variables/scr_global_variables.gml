@@ -17,4 +17,10 @@ function scr_global_variables()
 
 	// variable del tablero
 	global.table = noone;
+	
+	//variables para el parking de lado sur 
+	global.points_parking_sur = ds_map_create();
+	global.points_parking_sur[?429]= [28,311];
+	
+	
 }
