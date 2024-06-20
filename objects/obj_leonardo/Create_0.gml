@@ -11,4 +11,4 @@ sprites_walking[?225] = spr_leonardo_walking_down_left;
 sprites_walking[?270] = spr_leonardo_walking_down;
 sprites_walking[?315] = spr_leonardo_walking_down_right;
 
-alarm[0] = game_get_speed(gamespeed_fps);
+//alarm[0] = game_get_speed(gamespeed_fps);

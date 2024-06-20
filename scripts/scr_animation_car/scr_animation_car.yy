@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_animation_car",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_animation_car",
+  "parent":{
+    "name":"Funcionalidad",
+    "path":"folders/Scripts/Funcionalidad.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
