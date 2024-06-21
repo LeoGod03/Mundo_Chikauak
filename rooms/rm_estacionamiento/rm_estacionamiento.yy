@@ -75,7 +75,7 @@
   "name":"rm_estacionamiento",
   "parent":{
     "name":"Entradas",
-    "path":"folders/Salas/Entradas.yy",
+    "path":"folders/Salas/Pasillos/Entradas.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

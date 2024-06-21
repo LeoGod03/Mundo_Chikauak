@@ -5,21 +5,21 @@
   "bbox_bottom":95,
   "bbox_left":0,
   "bbox_right":95,
-  "bbox_top":0,
+  "bbox_top":11,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"70ba25a5-f2d9-414d-bdfb-33b7b1851e44","name":"70ba25a5-f2d9-414d-bdfb-33b7b1851e44","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"41803920-8e85-47db-92af-21c933d462dd","name":"41803920-8e85-47db-92af-21c933d462dd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":96,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"9b97cf45-9c9c-4d32-9776-ce99bc32a966","blendMode":0,"displayName":"default","isLocked":false,"name":"9b97cf45-9c9c-4d32-9776-ce99bc32a966","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"25acccce-af98-4892-b251-d1085ad2010f","blendMode":0,"displayName":"default","isLocked":false,"name":"25acccce-af98-4892-b251-d1085ad2010f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_entrada_alumnos",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"70ba25a5-f2d9-414d-bdfb-33b7b1851e44","path":"sprites/spr_entrada_alumnos/spr_entrada_alumnos.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5d9ab804-4e37-4cff-915a-974bc4f48495","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"41803920-8e85-47db-92af-21c933d462dd","path":"sprites/spr_entrada_alumnos/spr_entrada_alumnos.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"9a19fec7-89e1-4c9d-be2c-5011f3246751","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

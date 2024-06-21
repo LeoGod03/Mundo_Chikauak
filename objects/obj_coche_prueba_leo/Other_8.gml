@@ -1,11 +1,12 @@
 /// @description Inserte el evento del policia
-
+ if(state == STATE.LOADING)
+    exit;
+    
 if(index_path < array_length(points_to_path_exit))
+    scr_create_path_car();
+  
+else
 {
-   var _points = points_to_path_exit[index_path];
-   var _path = path_add();
-   mp_potential_path(_path, _points[0], _points[1], 1, 8, false);
-   path_start(_path, velocity, path_action_stop, false);
-   index_path ++;
-}else
+    direction = 90;
     state = STATE.IDLE;
+}

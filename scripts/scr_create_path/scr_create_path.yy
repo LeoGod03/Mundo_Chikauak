@@ -1,12 +1,12 @@
 {
   "$GMScript":"",
-  "%Name":"scr_movement_grid",
+  "%Name":"scr_create_path",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_movement_grid",
+  "name":"scr_create_path",
   "parent":{
-    "name":"Funcionalidad",
-    "path":"folders/Scripts/Funcionalidad.yy",
+    "name":"Coches",
+    "path":"folders/Scripts/Funcionalidad/Coches.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

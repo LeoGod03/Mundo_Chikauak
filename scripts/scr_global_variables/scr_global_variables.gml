@@ -34,6 +34,9 @@ function scr_global_variables()
     // arreglo de booleanos que nos diran si el lugar ya esta apartado
     global.place_parkin_free = array_create(14, false);
     
-    global.points_exit[0] = [[816, 352], [816, 288]];
+    global.points_exit[0] = [[816, 352], [816, 320]];
+    global.points_exit[1] = [[672, 672], [672, 352], [816, 352], [816, 320]];
+    
+    global.index_car_movin = 0;
     
 }

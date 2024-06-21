@@ -1,11 +1,5 @@
-path_ending = false;
-destinity_x=-1;
-destinity_y=-1;
 
-
-path = noone;
-
-distance = 0;
+ticket = 0;
 
 movement = false;
 
@@ -16,7 +10,7 @@ image_yscale = 2;
 index_path = 0;
 
 randomize();
-alarm[0] = game_get_speed(gamespeed_fps)*choose(10,20,15);
+alarm[0] = game_get_speed(gamespeed_fps) * irandom_range(10, 25);
 
 image_speed = 0;
 
@@ -24,6 +18,13 @@ step = 0;
 
 
 points_to_path_exit = [];
+
+collision = instance_create_depth(x, y, depth, obj_collision_car);
+collision.car_asigned = id;
+
+collision_car = false;
+collision_human = false;
+
 
 if(state == STATE.PARKED)
 {
@@ -37,5 +38,6 @@ if(state == STATE.PARKED)
 
     for(var _index = 0; _index < array_length(global.points_exit[_place_parking[0]]); _index ++)
         points_to_path_exit[_index + 1] = global.points_exit[_place_parking[0]][_index];
+        
            
 }
