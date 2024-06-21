@@ -28,7 +28,7 @@ points_to_path_exit = [];
 if(state == STATE.PARKED)
 {
     
-     var _place_parking = scr_get_place_parking(x, y);
+    var _place_parking = scr_get_place_parking(x, y);
     points_to_path_exit = array_create(array_length(global.points_exit[_place_parking[0]]) + 1,[]);
    
     points_to_path_exit[0] = [x,(_place_parking[0])? y + 64 : y - 64]; 

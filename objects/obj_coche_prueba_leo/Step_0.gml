@@ -2,7 +2,7 @@ if(state == STATE.RUN)
 {  
     image_speed = 1;
     scr_animation_car("spr_coche_amarillo");
-    
+   
     
    
 	
