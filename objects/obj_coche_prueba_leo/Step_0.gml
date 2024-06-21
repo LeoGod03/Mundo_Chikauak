@@ -29,6 +29,8 @@ if(state == STATE.RUN)
         
         
     }
+    collision.image_xscale = 1 + 1 * _x_factor;
+    collision.image_yscale = 1 + 1 *_y_factor;
     collision.x = x + sprite_width / 2 * _x_factor;
     collision.y = y + sprite_height / 2 * _y_factor;
     
@@ -45,6 +47,10 @@ if(state == STATE.RUN)
 }else if(state == STATE.LOADING)
 {
     speed = 0;
+    
+    //destinity_x = x;
+    
+    //destinity_y = y;
      
     if(collision_human) exit;
     

@@ -1,11 +1,14 @@
+mode_run = "entry";
 
 ticket = 0;
 
 movement = false;
 
+
 image_xscale = 2;
 image_yscale = 2;
 
+face = "";
 
 index_path = 0;
 
@@ -28,7 +31,7 @@ collision_human = false;
 
 if(state == STATE.PARKED)
 {
-    
+    mode_run = "exit";
     var _place_parking = scr_get_place_parking(x, y);
     points_to_path_exit = array_create(array_length(global.points_exit[_place_parking[0]]) + 1,[]);
    

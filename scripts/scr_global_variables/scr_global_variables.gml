@@ -37,6 +37,10 @@ function scr_global_variables()
     global.points_exit[0] = [[816, 352], [816, 320]];
     global.points_exit[1] = [[672, 672], [672, 352], [816, 352], [816, 320]];
     
+    global.points_exit_street = ds_map_create();
+    global.points_exit_street[?"right"] = [[816, 128], [1152, 128]];
+    global.points_exit_street[?"left"] = [[816, 64], [-128, 64]];
+    
     global.index_car_movin = 0;
     
 }

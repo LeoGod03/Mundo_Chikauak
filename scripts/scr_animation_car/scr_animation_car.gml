@@ -4,7 +4,10 @@ function scr_animation_car(_name_sprite_car)
     var _action = "_moving"; // esta variable es comun denominador en los sprites de movimiento
     
     if(direction >= 22.5 && direction < 67.5)
+    {
         sprite_index =  asset_get_index(_name_sprite_car +  _action + "_up_right");
+        face = "up_right";
+    }
     else if(direction >= 67.5 && direction < 112.5)
         sprite_index =  asset_get_index(_name_sprite_car +  _action + "_up");
     else if(direction >= 112.5 && direction < 157.5)

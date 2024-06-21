@@ -1,21 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_caseta",
+  "%Name":"obj_controlador_trafico",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_caseta",
+  "name":"obj_controlador_trafico",
   "overriddenProperties":[],
   "parent":{
-    "name":"Estacionamiento",
-    "path":"folders/Objetos/Estructuras/Estacionamiento.yy",
+    "name":"Controllers",
+    "path":"folders/Objetos/Controllers.yy",
   },
-  "parentObjectId":{
-    "name":"obj_pared",
-    "path":"objects/obj_pared/obj_pared.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,11 +28,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"spr_caseta",
-    "path":"sprites/spr_caseta/spr_caseta.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
