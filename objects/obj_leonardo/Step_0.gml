@@ -6,7 +6,7 @@ if(state == STATE.IDLE)
 {
     speed = 0;
     
-    //sprite_index = spr_leonardo_idle;
+    sprite_index = spr_leonardo_idle;
     image_speed = 0;
     image_index = 3;
     
@@ -14,7 +14,6 @@ if(state == STATE.IDLE)
  
 else if(state == STATE.WALKING)
 {
-    
     
     if(!keyboard_check(vk_anykey))
         state = STATE.IDLE;
