@@ -29,6 +29,7 @@ function scr_global_variables()
     
     //Variable del control de narrador y dialogos 
 	global.narrator_complete=false;
+	global.dialogue_complete=false;
     
     
     // arreglo de booleanos que nos diran si el lugar ya esta apartado
