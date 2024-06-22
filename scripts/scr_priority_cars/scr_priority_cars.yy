@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_priority_cars",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_priority_cars",
+  "parent":{
+    "name":"Coches",
+    "path":"folders/Scripts/Funcionalidad/Coches.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

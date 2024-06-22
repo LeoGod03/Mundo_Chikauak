@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_get_rectangle_collision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_rectangle_collision",
+  "parent":{
+    "name":"Coches",
+    "path":"folders/Scripts/Funcionalidad/Coches.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
