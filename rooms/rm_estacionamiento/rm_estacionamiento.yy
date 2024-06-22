@@ -31,6 +31,8 @@
     {"name":"inst_7E6B2DA0","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},
     {"name":"inst_775E3131","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},
     {"name":"inst_160A86D","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},
+    {"name":"inst_2A340F20","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},
+    {"name":"inst_9F9FE1A","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -69,6 +71,12 @@
         {"$GMRInstance":"","%Name":"inst_160A86D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_160A86D","objectId":{"name":"obj_coche_prueba_leo","path":"objects/obj_coche_prueba_leo/obj_coche_prueba_leo.yy",},"properties":[
             {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_coche","path":"objects/obj_coche/obj_coche.yy",},"propertyId":{"name":"state","path":"objects/obj_coche/obj_coche.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"4",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":928.0,"y":416.0,},
+        {"$GMRInstance":"","%Name":"inst_2A340F20","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A340F20","objectId":{"name":"obj_kei","path":"objects/obj_kei/obj_kei.yy",},"properties":[
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"name","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Kei\"",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":688.0,"y":528.75,},
+        {"$GMRInstance":"","%Name":"inst_9F9FE1A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_9F9FE1A","objectId":{"name":"obj_chikahuak","path":"objects/obj_chikahuak/obj_chikahuak.yy",},"properties":[
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"name","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Chikahuak\"",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.16666667,"scaleY":0.25,"x":696.0,"y":486.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"banquetas","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_4E132648","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_4E132648","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_banqueta_final_E","path":"sprites/spr_banqueta_final_E/spr_banqueta_final_E.yy",},"x":512.0,"y":736.0,},
