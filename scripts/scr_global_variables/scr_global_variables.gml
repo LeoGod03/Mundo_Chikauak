@@ -10,7 +10,6 @@ function scr_global_variables()
         inventory: ord("i")
     };
     
-
 	// variable del tablero
 	global.table = noone;
     
@@ -28,7 +27,9 @@ function scr_global_variables()
     global.place_parkin_x[5] = 928;
     global.place_parkin_x[6] = 992; 
     
-    
+    //Variable del control de narrador y dialogos 
+	global.narrator_complete=false;
+	global.dialogue_complete=false;
     
     
     // arreglo de booleanos que nos diran si el lugar ya esta apartado

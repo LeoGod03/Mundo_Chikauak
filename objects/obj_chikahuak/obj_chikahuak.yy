@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_policia_mujer",
+  "%Name":"obj_chikahuak",
   "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_policia_mujer",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"name","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Kimberly\"",},
-  ],
+  "name":"obj_chikahuak",
+  "overriddenProperties":[],
   "parent":{
-    "name":"Policias",
-    "path":"folders/Objetos/NPC/Policias.yy",
+    "name":"NPC",
+    "path":"folders/Objetos/NPC.yy",
   },
   "parentObjectId":{
     "name":"obj_human",
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"PoliceFemale_Idle",
-    "path":"sprites/PoliceFemale_Idle/PoliceFemale_Idle.yy",
+    "name":"spr_chikahuack_idle",
+    "path":"sprites/spr_chikahuack_idle/spr_chikahuack_idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

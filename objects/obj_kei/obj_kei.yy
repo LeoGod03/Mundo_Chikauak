@@ -1,18 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_policia_mujer",
+  "%Name":"obj_kei",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_policia_mujer",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"name","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Kimberly\"",},
-  ],
+  "name":"obj_kei",
+  "overriddenProperties":[],
   "parent":{
-    "name":"Policias",
-    "path":"folders/Objetos/NPC/Policias.yy",
+    "name":"Players",
+    "path":"folders/Objetos/Players.yy",
   },
   "parentObjectId":{
     "name":"obj_human",
@@ -29,15 +27,20 @@
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[],
+  "physicsShapePoints":[
+    {"x":0.0,"y":0.0,},
+    {"x":32.0,"y":0.0,},
+    {"x":32.0,"y":32.0,},
+    {"x":0.0,"y":32.0,},
+  ],
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"PoliceFemale_Idle",
-    "path":"sprites/PoliceFemale_Idle/PoliceFemale_Idle.yy",
+    "name":"spr_kei_idle",
+    "path":"sprites/spr_kei_idle/spr_kei_idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
