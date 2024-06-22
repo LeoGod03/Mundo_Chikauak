@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_coche__negro_moving_left",
+  "%Name":"spr_coche_negro_moving_left",
   "bboxMode":0,
   "bbox_bottom":24,
   "bbox_left":16,
@@ -24,9 +24,9 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"5834e039-f10f-4507-85b2-3d8fbd21d85f","blendMode":0,"displayName":"default","isLocked":false,"name":"5834e039-f10f-4507-85b2-3d8fbd21d85f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_coche__negro_moving_left",
+  "name":"spr_coche_negro_moving_left",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"coche negro",
     "path":"folders/Sprites/Coches/coche negro.yy",
@@ -36,7 +36,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_coche__negro_moving_left",
+    "%Name":"spr_coche_negro_moving_left",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -60,7 +60,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_coche__negro_moving_left",
+    "name":"spr_coche_negro_moving_left",
     "playback":1,
     "playbackSpeed":2.0,
     "playbackSpeedType":0,
@@ -72,23 +72,23 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e20ebbe4-633f-43a9-b944-4aae473bca35","path":"sprites/spr_coche__negro_moving_left/spr_coche__negro_moving_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e20ebbe4-633f-43a9-b944-4aae473bca35","path":"sprites/spr_coche_negro_moving_left/spr_coche_negro_moving_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b7043cd7-7067-4ff9-a8bf-56391ae1f84d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d76f842c-152c-4b8b-8cd7-4d6591db92ec","path":"sprites/spr_coche__negro_moving_left/spr_coche__negro_moving_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d76f842c-152c-4b8b-8cd7-4d6591db92ec","path":"sprites/spr_coche_negro_moving_left/spr_coche_negro_moving_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"be7d3900-e9a2-4869-b7db-e07641e9c42d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6c24e2f7-0328-4776-a9b0-c5850e4ca20a","path":"sprites/spr_coche__negro_moving_left/spr_coche__negro_moving_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6c24e2f7-0328-4776-a9b0-c5850e4ca20a","path":"sprites/spr_coche_negro_moving_left/spr_coche_negro_moving_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"bbade869-b0a9-4532-8db2-7b39ff14c035","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bb0c5c7c-4133-4693-8796-fa288b78f647","path":"sprites/spr_coche__negro_moving_left/spr_coche__negro_moving_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bb0c5c7c-4133-4693-8796-fa288b78f647","path":"sprites/spr_coche_negro_moving_left/spr_coche_negro_moving_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e405a318-238a-4bdf-bd10-0c7c5b23847e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":32,
+    "yorigin":16,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

@@ -1,7 +1,8 @@
+scr_animation_car(name_sprite);
+
 if(state == STATE.RUN)
 {  
     image_speed = 1;
-    scr_animation_car("spr_coche_amarillo");
     
     var _x_factor = (direction >= 337.5 || direction < 22.5) - (direction >= 157.5 && direction < 202.5);
     var _y_factor = (direction >= 247.5 && direction < 292.5) - (direction >= 67.5 && direction < 112.5);
@@ -29,8 +30,9 @@ if(state == STATE.RUN)
         
         
     }
-    collision.image_xscale = 1 + 1 * _x_factor;
-    collision.image_yscale = 1 + 1 *_y_factor;
+    if(!instance_exists(collision))
+        exit;
+        
     collision.x = x + sprite_width / 2 * _x_factor;
     collision.y = y + sprite_height / 2 * _y_factor;
     
@@ -39,7 +41,7 @@ if(state == STATE.RUN)
     
    
 	
-}else if(state == STATE.IDLE)
+}else if(state == STATE.IDLE || state == STATE.PARKED)
 {
     image_speed = 0;
     image_index = 0;
