@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"spr_entrada_alumnos",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":95,
   "bbox_left":0,
   "bbox_right":95,
-  "bbox_top":11,
+  "bbox_top":32,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
