@@ -87,7 +87,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Mundo_Chikauak",
   "resources":[
@@ -131,6 +131,7 @@
     {"id":{"name":"scr_draw_dialogue_pop","path":"scripts/scr_draw_dialogue_pop/scr_draw_dialogue_pop.yy",},},
     {"id":{"name":"scr_enums","path":"scripts/scr_enums/scr_enums.yy",},},
     {"id":{"name":"scr_get_dialogue","path":"scripts/scr_get_dialogue/scr_get_dialogue.yy",},},
+    {"id":{"name":"scr_get_narrator","path":"scripts/scr_get_narrator/scr_get_narrator.yy",},},
     {"id":{"name":"scr_get_place_parking","path":"scripts/scr_get_place_parking/scr_get_place_parking.yy",},},
     {"id":{"name":"scr_get_points_parking","path":"scripts/scr_get_points_parking/scr_get_points_parking.yy",},},
     {"id":{"name":"scr_get_rectangle_collision","path":"scripts/scr_get_rectangle_collision/scr_get_rectangle_collision.yy",},},
@@ -141,7 +142,6 @@
     {"id":{"name":"scr_priority_cars","path":"scripts/scr_priority_cars/scr_priority_cars.yy",},},
     {"id":{"name":"scr_split_pages_text","path":"scripts/scr_split_pages_text/scr_split_pages_text.yy",},},
     {"id":{"name":"scr_split_text","path":"scripts/scr_split_text/scr_split_text.yy",},},
-    {"id":{"name":"scr_get_narrator","path":"scripts/scr_get_narrator/scr_get_narrator.yy",},},
     {"id":{"name":"PoliceFemale_Idle","path":"sprites/PoliceFemale_Idle/PoliceFemale_Idle.yy",},},
     {"id":{"name":"PoliceFemale_Run_Down","path":"sprites/PoliceFemale_Run_Down/PoliceFemale_Run_Down.yy",},},
     {"id":{"name":"PoliceMale_Idle","path":"sprites/PoliceMale_Idle/PoliceMale_Idle.yy",},},
