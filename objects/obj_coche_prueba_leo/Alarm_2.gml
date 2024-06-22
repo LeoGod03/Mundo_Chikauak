@@ -17,6 +17,8 @@ if(mode_run == "exit")
 
     for(var _index = 0; _index < array_length(global.points_exit[_place_parking[0]]); _index ++)
         list_points[_index + 1] = global.points_exit[_place_parking[0]][_index];
+        
+     global.place_parkin_free[_place_parking[1] + 7 * _place_parking[0]] = false;
 
 }else if(mode_run == "parked")
 {

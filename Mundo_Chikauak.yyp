@@ -149,6 +149,8 @@
     {"id":{"name":"spr_arbol_con_nido","path":"sprites/spr_arbol_con_nido/spr_arbol_con_nido.yy",},},
     {"id":{"name":"spr_arbol_propuesta_2","path":"sprites/spr_arbol_propuesta_2/spr_arbol_propuesta_2.yy",},},
     {"id":{"name":"spr_arbol_propuesta_3","path":"sprites/spr_arbol_propuesta_3/spr_arbol_propuesta_3.yy",},},
+    {"id":{"name":"spr_arbusto_corto","path":"sprites/spr_arbusto_corto/spr_arbusto_corto.yy",},},
+    {"id":{"name":"spr_arbusto_largo","path":"sprites/spr_arbusto_largo/spr_arbusto_largo.yy",},},
     {"id":{"name":"spr_banqueta_final_E","path":"sprites/spr_banqueta_final_E/spr_banqueta_final_E.yy",},},
     {"id":{"name":"spr_banqueta_final","path":"sprites/spr_banqueta_final/spr_banqueta_final.yy",},},
     {"id":{"name":"spr_carro_verde","path":"sprites/spr_carro_verde/spr_carro_verde.yy",},},

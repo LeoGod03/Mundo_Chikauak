@@ -21,7 +21,7 @@ index_path = 0;
 image_speed = 0;
 
 step = 0;
-name_sprite = "spr_coche_amarillo";
+name_sprite = choose("spr_coche_amarillo", "spr_coche_negro", "spr_coche_verde", "spr_coche_rojo");
 
 list_points = [];
 
