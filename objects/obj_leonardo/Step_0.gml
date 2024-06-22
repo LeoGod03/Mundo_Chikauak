@@ -7,8 +7,8 @@ if(state == STATE.IDLE)
     speed = 0;
     
     sprite_index = spr_leonardo_idle;
-    image_speed = 0;
-    image_index = 3;
+    image_speed = 1;
+    //image_index = 3;
     
 }
  
