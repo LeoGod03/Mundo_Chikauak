@@ -12,7 +12,7 @@ function scr_movement_direction(_grid_x, _grid_y)
 	var _velocity_y = _grid_y / _length;
     
     // comprobamos y nos movemos
-	if(place_free(x + LENGHTGRID / 2 *_grid_x, y + LENGHTGRID / 2 *_grid_y))
+	if(place_free(x + LENGHTGRID / 2 *_grid_x, y + LENGHTGRID / 2 *_grid_y)  && !place_meeting(x + LENGHTGRID / 2 *_grid_x, y + LENGHTGRID / 2 *_grid_y, obj_coche))
 	{
 		vspeed = velocity * _velocity_y;
 		hspeed = velocity * _velocity_x;
