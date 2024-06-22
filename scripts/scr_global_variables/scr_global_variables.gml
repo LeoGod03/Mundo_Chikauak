@@ -52,4 +52,5 @@ function scr_global_variables()
     
     global.index_car_movin = 0;
     
+    
 }
