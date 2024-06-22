@@ -2,7 +2,8 @@
 // Puede escribir su código en este editor
 if(pages==noone)
 {
-	exit;
+	instance_destroy();
+	
 }
 if(text_on_display!=pages[page])
 {
