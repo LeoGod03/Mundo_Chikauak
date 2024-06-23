@@ -57,6 +57,7 @@
     {"name":"Minijuegos","order":4,"path":"folders/Sprites/Minijuegos.yy",},
     {"name":"Personajes","order":1,"path":"folders/Sprites/Personajes.yy",},
     {"name":"Chikauak","order":3,"path":"folders/Sprites/Personajes/Chikauak.yy",},
+    {"name":"Personaje_principal","order":4,"path":"folders/Sprites/Personajes/Personaje_principal.yy",},
     {"name":"Kei","order":1,"path":"folders/Sprites/Personajes/Kei.yy",},
     {"name":"Policias","order":2,"path":"folders/Sprites/Personajes/Policias.yy",},
     {"name":"Female","order":1,"path":"folders/Sprites/Personajes/Policias/Female.yy",},
