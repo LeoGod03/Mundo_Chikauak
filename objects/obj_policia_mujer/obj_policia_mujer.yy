@@ -7,9 +7,7 @@
   ],
   "managed":true,
   "name":"obj_policia_mujer",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"propertyId":{"name":"name","path":"objects/obj_human/obj_human.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Kimberly\"",},
-  ],
+  "overriddenProperties":[],
   "parent":{
     "name":"Policias",
     "path":"folders/Objetos/NPC/Policias.yy",
@@ -36,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"PoliceFemale_Idle",
-    "path":"sprites/PoliceFemale_Idle/PoliceFemale_Idle.yy",
+    "name":"PoliceFemale_Idle_1",
+    "path":"sprites/PoliceFemale_Idle_1/PoliceFemale_Idle_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

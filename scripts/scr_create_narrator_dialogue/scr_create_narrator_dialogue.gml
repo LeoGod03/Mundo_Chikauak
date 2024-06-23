@@ -4,8 +4,8 @@ function scr_create_narrator_dialogue(_section)
 {
 	if(instance_exists(obj_controlador_narrador))
 		exit;
-	var controlador=instance_create_depth(0,0,-2,obj_controlador_narrador);
-	with(controlador)
+	var _controlador=instance_create_depth(0,0,-2,obj_controlador_narrador);
+	with(_controlador)
 	{
 		text=scr_get_narrator(_section,"dialogo");
 		pages=scr_split_pages_text(text,fnt_narrador,text_separation,screen_widht,screen_height*0.20);
