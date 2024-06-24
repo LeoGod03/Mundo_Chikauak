@@ -151,6 +151,7 @@
     {"id":{"name":"obj_rectoria","path":"objects/obj_rectoria/obj_rectoria.yy",},},
     {"id":{"name":"obj_rejillas_rojas","path":"objects/obj_rejillas_rojas/obj_rejillas_rojas.yy",},},
     {"id":{"name":"obj_tarea_tip","path":"objects/obj_tarea_tip/obj_tarea_tip.yy",},},
+    {"id":{"name":"obj_tester_leo","path":"objects/obj_tester_leo/obj_tester_leo.yy",},},
     {"id":{"name":"rm_agora","path":"rooms/rm_agora/rm_agora.yy",},},
     {"id":{"name":"rm_estacionamiento","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},},
     {"id":{"name":"rm_presentacion","path":"rooms/rm_presentacion/rm_presentacion.yy",},},
