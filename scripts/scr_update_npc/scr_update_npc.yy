@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_update_npc",
   "parent":{
-    "name":"Brian",
-    "path":"folders/Scripts/Brian.yy",
+    "name":"NPC",
+    "path":"folders/Scripts/NPC.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
