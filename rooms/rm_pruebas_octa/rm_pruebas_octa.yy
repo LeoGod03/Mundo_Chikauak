@@ -13,8 +13,8 @@
   ],
   "name":"rm_pruebas_octa",
   "parent":{
-    "name":"Pruebas",
-    "path":"folders/Salas/Pruebas.yy",
+    "name":"Salas",
+    "path":"folders/Salas.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
