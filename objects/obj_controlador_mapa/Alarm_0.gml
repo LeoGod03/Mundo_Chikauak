@@ -9,3 +9,5 @@ for(var _index = 0; _index < array_length(points_localitation); _index ++)
     _localitation.index = _index;
     
 }
+
+var _task = instance_create_depth(54, 96, -1, obj_cuadro_base_tareas);

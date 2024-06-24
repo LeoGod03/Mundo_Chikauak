@@ -14,3 +14,4 @@ points_localitation = [[395, 75, "Ágora", "AGORA"],
                        
 alarm[0] = game_get_speed(gamespeed_fps) * 0.5;                       
 index = -1;
+//show_debug_message(array_length(scr_get_tasks("AGORA")));

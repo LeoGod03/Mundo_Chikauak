@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_localizacion",
+  "%Name":"obj_flecha_task",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_localizacion",
+  "name":"obj_flecha_task",
   "overriddenProperties":[],
   "parent":{
     "name":"Leo",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_icono_localizacion",
-    "path":"sprites/spr_icono_localizacion/spr_icono_localizacion.yy",
+    "name":"spr_flechas_tareas",
+    "path":"sprites/spr_flechas_tareas/spr_flechas_tareas.yy",
   },
   "spriteMaskId":null,
   "visible":true,
