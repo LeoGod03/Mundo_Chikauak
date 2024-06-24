@@ -6,7 +6,7 @@ order_talking = [];
 
 dialogue = "";
 
-player = noone;
+player = noone; // tiene el objeto que esta hablando
 
 index_dialogues = 0;
 

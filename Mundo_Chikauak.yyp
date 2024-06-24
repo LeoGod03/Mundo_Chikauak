@@ -84,8 +84,8 @@
     {"$GMFolder":"","%Name":"Banda_de_rock","folderPath":"folders/Sprites/Personajes/Banda_de_rock.yy","name":"Banda_de_rock","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Bajista","folderPath":"folders/Sprites/Personajes/Banda_de_rock/Bajista.yy","name":"Bajista","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Baterista","folderPath":"folders/Sprites/Personajes/Banda_de_rock/Baterista.yy","name":"Baterista","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Tecladista","folderPath":"folders/Sprites/Personajes/Banda_de_rock/Tecladista.yy","name":"Tecladista","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Guitarrista","folderPath":"folders/Sprites/Personajes/Banda_de_rock/Guitarrista.yy","name":"Guitarrista","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Tecladista","folderPath":"folders/Sprites/Personajes/Banda_de_rock/Tecladista.yy","name":"Tecladista","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Vocalista","folderPath":"folders/Sprites/Personajes/Banda_de_rock/Vocalista.yy","name":"Vocalista","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Chikauak","folderPath":"folders/Sprites/Personajes/Chikauak.yy","name":"Chikauak","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Kei","folderPath":"folders/Sprites/Personajes/Kei.yy","name":"Kei","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -140,6 +140,7 @@
     {"id":{"name":"obj_policia_mujer","path":"objects/obj_policia_mujer/obj_policia_mujer.yy",},},
     {"id":{"name":"obj_rectoria","path":"objects/obj_rectoria/obj_rectoria.yy",},},
     {"id":{"name":"obj_rejillas_rojas","path":"objects/obj_rejillas_rojas/obj_rejillas_rojas.yy",},},
+    {"id":{"name":"rm_agora","path":"rooms/rm_agora/rm_agora.yy",},},
     {"id":{"name":"rm_estacionamiento","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},},
     {"id":{"name":"rm_presentacion","path":"rooms/rm_presentacion/rm_presentacion.yy",},},
     {"id":{"name":"scr_animation_car","path":"scripts/scr_animation_car/scr_animation_car.yy",},},
@@ -273,6 +274,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_presentacion","path":"rooms/rm_presentacion/rm_presentacion.yy",},},
     {"roomId":{"name":"rm_estacionamiento","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},},
+    {"roomId":{"name":"rm_agora","path":"rooms/rm_agora/rm_agora.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
