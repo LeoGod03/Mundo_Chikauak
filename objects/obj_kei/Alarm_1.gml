@@ -1,11 +1,7 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-if(quest)
-{
-	draw_sprite(spr_circulo,-1,x,y);
-	draw_self();
-}
+if(distance_to_point(445,750)>0.5)
+	mp_potential_step(445,750,1,false);
 else
-{
-	draw_self();
-}
+	instance_destroy();
+

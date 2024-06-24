@@ -41,9 +41,9 @@
     {"$GMFolder":"","%Name":"Salas","folderPath":"folders/Salas.yy","name":"Salas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Edificios","folderPath":"folders/Salas/Edificios.yy","name":"Edificios","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Entradas","folderPath":"folders/Salas/Entradas.yy","name":"Entradas","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Pruebas","folderPath":"folders/Salas/Pruebas.yy","name":"Pruebas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Pasillos","folderPath":"folders/Salas/Pasillos.yy","name":"Pasillos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Patios","folderPath":"folders/Salas/Patios.yy","name":"Patios","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Pruebas","folderPath":"folders/Salas/Pruebas.yy","name":"Pruebas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Salones","folderPath":"folders/Salas/Salones.yy","name":"Salones","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Brian","folderPath":"folders/Scripts/Brian.yy","name":"Brian","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -104,7 +104,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Mundo_Chikauak",
   "resources":[

@@ -1,2 +1,3 @@
-/// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
+/// @description Creacion de variables necesarios 
+visible=false;
+ruta=path_add();

@@ -9,5 +9,8 @@ else
         index_dialogues ++;
         alarm[0] = 5;
     }else
+	{
+		global.dialogue_complete=true;
         instance_destroy();
+	}
 }
