@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"caseta_agor_",
+  "%Name":"spr_tarima",
   "bboxMode":0,
-  "bbox_bottom":127,
-  "bbox_left":3,
-  "bbox_right":155,
-  "bbox_top":0,
+  "bbox_bottom":183,
+  "bbox_left":4,
+  "bbox_right":266,
+  "bbox_top":81,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a3d0eef9-4558-48bf-abdf-a1c7ab6999f8","name":"a3d0eef9-4558-48bf-abdf-a1c7ab6999f8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"118eec46-864e-4600-b5f8-1bd835a322f4","name":"118eec46-864e-4600-b5f8-1bd835a322f4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":128,
+  "height":190,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"240de051-4816-4362-8fc0-45b271e5f32d","blendMode":0,"displayName":"default","isLocked":false,"name":"240de051-4816-4362-8fc0-45b271e5f32d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"0d162e6b-6954-4a2a-8a6f-f14d694d0d5f","blendMode":0,"displayName":"default","isLocked":false,"name":"0d162e6b-6954-4a2a-8a6f-f14d694d0d5f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"caseta_agor_",
+  "name":"spr_tarima",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"caseta_agor_",
+    "%Name":"spr_tarima",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"caseta_agor_",
+    "name":"spr_tarima",
     "playback":1,
     "playbackSpeed":12.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a3d0eef9-4558-48bf-abdf-a1c7ab6999f8","path":"sprites/caseta_agor_/caseta_agor_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7cdeae85-b634-4cf7-92a4-3d0d42ce5959","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"118eec46-864e-4600-b5f8-1bd835a322f4","path":"sprites/spr_tarima/spr_tarima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3d3a8883-7a95-4205-ab50-3ea8c5b197f3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":160,
+  "width":272,
 }
