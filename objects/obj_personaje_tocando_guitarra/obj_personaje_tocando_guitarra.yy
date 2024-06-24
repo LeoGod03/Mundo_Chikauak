@@ -9,8 +9,8 @@
   "name":"obj_personaje_tocando_guitarra",
   "overriddenProperties":[],
   "parent":{
-    "name":"Leo",
-    "path":"folders/Objetos/Leo.yy",
+    "name":"Players",
+    "path":"folders/Objetos/Players.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -11,8 +11,8 @@
   "name":"obj_controlador_mapa",
   "overriddenProperties":[],
   "parent":{
-    "name":"Leo",
-    "path":"folders/Objetos/Leo.yy",
+    "name":"Controllers",
+    "path":"folders/Objetos/Controllers.yy",
   },
   "parentObjectId":null,
   "persistent":false,

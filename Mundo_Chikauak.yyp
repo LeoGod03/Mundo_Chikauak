@@ -28,6 +28,7 @@
     {"$GMFolder":"","%Name":"Estructuras","folderPath":"folders/Objetos/Estructuras.yy","name":"Estructuras","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Estacionamiento","folderPath":"folders/Objetos/Estructuras/Estacionamiento.yy","name":"Estacionamiento","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"GUI","folderPath":"folders/Objetos/GUI.yy","name":"GUI","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Mapa","folderPath":"folders/Objetos/GUI/Mapa.yy","name":"Mapa","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Leo","folderPath":"folders/Objetos/Leo.yy","name":"Leo","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Minijuegos","folderPath":"folders/Objetos/Minijuegos.yy","name":"Minijuegos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Naturaleza","folderPath":"folders/Objetos/Naturaleza.yy","name":"Naturaleza","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -106,7 +107,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Mundo_Chikauak",
   "resources":[

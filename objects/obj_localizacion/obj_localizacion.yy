@@ -9,8 +9,8 @@
   "name":"obj_localizacion",
   "overriddenProperties":[],
   "parent":{
-    "name":"Leo",
-    "path":"folders/Objetos/Leo.yy",
+    "name":"Mapa",
+    "path":"folders/Objetos/GUI/Mapa.yy",
   },
   "parentObjectId":null,
   "persistent":false,

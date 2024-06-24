@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_get_tasks",
   "parent":{
-    "name":"Leo",
-    "path":"folders/Objetos/Leo.yy",
+    "name":"Funcionalidad",
+    "path":"folders/Scripts/Funcionalidad.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

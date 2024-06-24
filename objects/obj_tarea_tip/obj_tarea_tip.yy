@@ -10,8 +10,8 @@
   "name":"obj_tarea_tip",
   "overriddenProperties":[],
   "parent":{
-    "name":"Leo",
-    "path":"folders/Objetos/Leo.yy",
+    "name":"Mapa",
+    "path":"folders/Objetos/GUI/Mapa.yy",
   },
   "parentObjectId":null,
   "persistent":false,
