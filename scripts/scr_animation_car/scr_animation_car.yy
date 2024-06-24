@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_animation_car",
   "parent":{
-    "name":"Mundo_Chikauak",
-    "path":"Mundo_Chikauak.yyp",
+    "name":"Coches",
+    "path":"folders/Scripts/Funcionalidad/Coches.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
