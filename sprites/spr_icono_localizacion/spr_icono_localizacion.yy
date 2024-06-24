@@ -23,7 +23,7 @@
   ],
   "name":"spr_icono_localizacion",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"GUI",
     "path":"folders/Sprites/GUI.yy",
@@ -76,7 +76,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":5,
-    "yorigin":7,
+    "yorigin":15,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
