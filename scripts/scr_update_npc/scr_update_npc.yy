@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_update_npc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_update_npc",
+  "parent":{
+    "name":"Brian",
+    "path":"folders/Scripts/Brian.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
