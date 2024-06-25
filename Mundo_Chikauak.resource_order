@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Brian","order":18,"path":"folders/Brian.yy",},
     {"name":"Conjuntos de casillas","order":2,"path":"folders/Conjuntos de casillas.yy",},
     {"name":"Curvas de animación","order":12,"path":"folders/Curvas de animación.yy",},
     {"name":"Extensiones","order":14,"path":"folders/Extensiones.yy",},
@@ -8,7 +9,6 @@
     {"name":"GUI","order":4,"path":"folders/Fuentes/GUI.yy",},
     {"name":"Minijuegos","order":1,"path":"folders/Fuentes/Minijuegos.yy",},
     {"name":"Narradores","order":2,"path":"folders/Fuentes/Narradores.yy",},
-    {"name":"Brian","order":18,"path":"folders/Brian.yy",},
     {"name":"Leo","order":16,"path":"folders/Leo.yy",},
     {"name":"Líneas temporales","order":8,"path":"folders/Líneas temporales.yy",},
     {"name":"Notas","order":13,"path":"folders/Notas.yy",},
@@ -72,6 +72,7 @@
   "ResourceOrderSettings":[
     {"name":"fnt_narrador","order":1,"path":"fonts/fnt_narrador/fnt_narrador.yy",},
     {"name":"fnt_task","order":1,"path":"fonts/fnt_task/fnt_task.yy",},
+    {"name":"fnt_titulos","order":2,"path":"fonts/fnt_titulos/fnt_titulos.yy",},
     {"name":"obj_arbol_dos","order":2,"path":"objects/obj_arbol_dos/obj_arbol_dos.yy",},
     {"name":"obj_arbol_tres","order":1,"path":"objects/obj_arbol_tres/obj_arbol_tres.yy",},
     {"name":"obj_banqueta","order":9,"path":"objects/obj_banqueta/obj_banqueta.yy",},
