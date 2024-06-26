@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_get_status_task",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_status_task",
+  "parent":{
+    "name":"Leo",
+    "path":"folders/Leo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
