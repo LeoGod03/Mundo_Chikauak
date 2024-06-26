@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Brian","order":18,"path":"folders/Brian.yy",},
     {"name":"Conjuntos de casillas","order":2,"path":"folders/Conjuntos de casillas.yy",},
     {"name":"Curvas de animación","order":12,"path":"folders/Curvas de animación.yy",},
     {"name":"Extensiones","order":14,"path":"folders/Extensiones.yy",},
@@ -8,7 +9,6 @@
     {"name":"GUI","order":4,"path":"folders/Fuentes/GUI.yy",},
     {"name":"Minijuegos","order":1,"path":"folders/Fuentes/Minijuegos.yy",},
     {"name":"Narradores","order":2,"path":"folders/Fuentes/Narradores.yy",},
-    {"name":"Brian","order":18,"path":"folders/Brian.yy",},
     {"name":"Leo","order":16,"path":"folders/Leo.yy",},
     {"name":"Líneas temporales","order":8,"path":"folders/Líneas temporales.yy",},
     {"name":"Notas","order":13,"path":"folders/Notas.yy",},
