@@ -2,15 +2,17 @@
 instance_deactivate_all(true);
 depth = 1;
 
-points_localitation = [[395, 75, "Ágora", "AGORA"],
-                       [316, 120, "Edificio C", "EDIFICIOC"],
-                       [270, 120, "Edificio B", "EDIFICIOB"],
-                       [220, 120, "Edificio A", "EDIFICIOA"],
-                       [298, 120, "Comedor", "COMEDOR"],
-                       [182, 183, "Domo", "DOMO"],
-                       [190, 255, "Entrada", "ENTRADA"],
-                       [250, 175, "Ajologames", "AJOLOGAMES"],
-                       [360, 185, "Jardín de lectura", "JARDINLECTURA"]];
+var _x = camera_get_view_x(view_camera[0]);
+var _y = camera_get_view_y(view_camera[0]);
+points_localitation = [[_x + 395, _y + 75, "Ágora", "AGORA"],
+                       [_x + 316, _y + 120, "Edificio C", "EDIFICIOC"],
+                       [_x + 270, _y + 120, "Edificio B", "EDIFICIOB"],
+                       [_x + 220, _y + 120, "Edificio A", "EDIFICIOA"],
+                       [_x + 298, _y + 120, "Comedor", "COMEDOR"],
+                       [_x + 182, _y + 183, "Domo", "DOMO"],
+                       [_x + 190, _y + 255, "Entrada", "ENTRADA"],
+                       [_x + 250, _y + 175, "Ajologames", "AJOLOGAMES"],
+                       [_x + 360, _y + 185, "Jardín de lectura", "JARDINLECTURA"]];
                        
 alarm[0] = game_get_speed(gamespeed_fps) * 0.5;                       
 index = -1;

@@ -9,5 +9,6 @@ for(var _index = 0; _index < array_length(points_localitation); _index ++)
     _localitation.index = _index;
     
 }
-
-var _task = instance_create_depth(54, 96, -1, obj_cuadro_base_tareas);
+var _x_position = camera_get_view_x(view_camera[0]) +  54;
+var _y_position = camera_get_view_y(view_camera[0]) + 96
+var _task = instance_create_depth(_x_position, _y_position, -10, obj_cuadro_base_tareas);
