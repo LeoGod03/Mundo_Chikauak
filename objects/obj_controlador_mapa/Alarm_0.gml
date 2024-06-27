@@ -1,4 +1,5 @@
 /// @description creacion de las localizaciones
+if(instance_exists(obj_localizacion)) exit;
 
 for(var _index = 0; _index < array_length(points_localitation); _index ++)
 {

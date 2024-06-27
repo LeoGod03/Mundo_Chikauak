@@ -8,3 +8,4 @@ if(mouse_x < x - sprite_width / 2 || mouse_x > x + sprite_width / 2) exit;
 
 
     image_index = (mouse_x > x);
+    alarm[0] = 1;
