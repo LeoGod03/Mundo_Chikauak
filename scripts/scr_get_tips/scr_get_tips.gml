@@ -18,4 +18,6 @@ function scr_get_tips(_section_tips)
     ini_close();
     
     return _tips;
+
+
 }
