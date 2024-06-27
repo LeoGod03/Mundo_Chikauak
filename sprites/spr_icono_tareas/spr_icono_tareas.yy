@@ -12,15 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"7623585a-a087-4a62-beea-e0c5e9838333","name":"7623585a-a087-4a62-beea-e0c5e9838333","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d93a7bc8-6bba-471d-a310-4ba43837ef40","name":"d93a7bc8-6bba-471d-a310-4ba43837ef40","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"8b07606c-ec13-4ecd-965b-2bfa721775ca","name":"8b07606c-ec13-4ecd-965b-2bfa721775ca","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"8f1f71ab-bcc6-49b4-b5f9-6fe25d6969d9","name":"8f1f71ab-bcc6-49b4-b5f9-6fe25d6969d9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a386c819-b119-42fe-ac20-a9d9d0e71c3d","name":"a386c819-b119-42fe-ac20-a9d9d0e71c3d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":30,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"cd0f2f89-e784-4b36-8318-f0ff38351d06","blendMode":0,"displayName":"default","isLocked":false,"name":"cd0f2f89-e784-4b36-8318-f0ff38351d06","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"c3ff6a13-1b7c-4ab1-8095-fa9e252ebd00","blendMode":0,"displayName":"default","isLocked":false,"name":"c3ff6a13-1b7c-4ab1-8095-fa9e252ebd00","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_icono_tareas",
   "nineSlice":null,
@@ -50,7 +51,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":3.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -70,11 +71,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7623585a-a087-4a62-beea-e0c5e9838333","path":"sprites/spr_icono_tareas/spr_icono_tareas.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"71aed015-1f98-447a-b904-b6ac7f706951","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8b07606c-ec13-4ecd-965b-2bfa721775ca","path":"sprites/spr_icono_tareas/spr_icono_tareas.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d5fe8091-6f56-4a54-b8a2-cd1a9b75c1fc","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d93a7bc8-6bba-471d-a310-4ba43837ef40","path":"sprites/spr_icono_tareas/spr_icono_tareas.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"facb0d0b-4aa6-4432-97ac-67acab7b660a","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8f1f71ab-bcc6-49b4-b5f9-6fe25d6969d9","path":"sprites/spr_icono_tareas/spr_icono_tareas.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"fd7b871f-f266-45b8-abe7-a489d6307268","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a386c819-b119-42fe-ac20-a9d9d0e71c3d","path":"sprites/spr_icono_tareas/spr_icono_tareas.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3b7ff746-7909-43a0-ba66-afe59215bf65","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
