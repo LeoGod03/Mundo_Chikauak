@@ -11,8 +11,9 @@ points_localitation = [[_x + 395, _y + 75, "Ágora", "AGORA"],
                        [_x + 298, _y + 120, "Comedor", "COMEDOR"],
                        [_x + 182, _y + 183, "Domo", "DOMO"],
                        [_x + 190, _y + 255, "Entrada", "ENTRADA"],
-                       [_x + 250, _y + 175, "Ajologames", "AJOLOGAMES"],
-                       [_x + 360, _y + 185, "Jardín de lectura", "JARDINLECTURA"]];
+                       [_x + 298, _y + 80, "Canchas", "CANCHAS"],
+                       [_x + 360, _y + 185, "Jardín de lectura", "JARDINLECTURA"],
+                       [_x + 285, _y + 105, "Biblioteca", "BIBLIOTECA"]];
                        
 alarm[0] = game_get_speed(gamespeed_fps) * 0.5;                       
 index = -1;

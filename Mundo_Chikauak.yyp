@@ -265,6 +265,7 @@
     {"id":{"name":"spr_fondo_muro_asientos_agora","path":"sprites/spr_fondo_muro_asientos_agora/spr_fondo_muro_asientos_agora.yy",},},
     {"id":{"name":"spr_icono_localizacion","path":"sprites/spr_icono_localizacion/spr_icono_localizacion.yy",},},
     {"id":{"name":"spr_icono_tareas","path":"sprites/spr_icono_tareas/spr_icono_tareas.yy",},},
+    {"id":{"name":"spr_imagenes_lugares_uacm","path":"sprites/spr_imagenes_lugares_uacm/spr_imagenes_lugares_uacm.yy",},},
     {"id":{"name":"spr_kei_idle","path":"sprites/spr_kei_idle/spr_kei_idle.yy",},},
     {"id":{"name":"spr_lampara_agora","path":"sprites/spr_lampara_agora/spr_lampara_agora.yy",},},
     {"id":{"name":"spr_leonardo_idle","path":"sprites/spr_leonardo_idle/spr_leonardo_idle.yy",},},

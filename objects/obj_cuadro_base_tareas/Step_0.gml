@@ -1,5 +1,7 @@
 /// @description cambio entre tip y tareas
 
+visible = (obj_controlador_mapa.index != -1);
+
 if(!mouse_check_button_pressed(mb_left)) exit;
 
 if(mouse_y < y || mouse_y > y + 13) exit;

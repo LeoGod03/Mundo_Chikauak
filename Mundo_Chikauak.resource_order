@@ -159,6 +159,7 @@
     {"name":"spr_fondo_muro_asientos_agora","order":3,"path":"sprites/spr_fondo_muro_asientos_agora/spr_fondo_muro_asientos_agora.yy",},
     {"name":"spr_icono_localizacion","order":4,"path":"sprites/spr_icono_localizacion/spr_icono_localizacion.yy",},
     {"name":"spr_icono_tareas","order":3,"path":"sprites/spr_icono_tareas/spr_icono_tareas.yy",},
+    {"name":"spr_imagenes_lugares_uacm","order":4,"path":"sprites/spr_imagenes_lugares_uacm/spr_imagenes_lugares_uacm.yy",},
     {"name":"spr_lampara_agora","order":7,"path":"sprites/spr_lampara_agora/spr_lampara_agora.yy",},
     {"name":"spr_leonardo_walking_down_left","order":2,"path":"sprites/spr_leonardo_walking_down_left/spr_leonardo_walking_down_left.yy",},
     {"name":"spr_leonardo_walking_down_right","order":3,"path":"sprites/spr_leonardo_walking_down_right/spr_leonardo_walking_down_right.yy",},
