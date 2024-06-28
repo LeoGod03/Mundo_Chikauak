@@ -95,6 +95,7 @@
     {"$GMFolder":"","%Name":"Male","folderPath":"folders/Sprites/Personajes/Policias/Male.yy","name":"Male","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"Cancion.txt","CopyToMask":-1,"filePath":"datafiles","name":"Cancion.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"dialogos.ini","CopyToMask":-1,"filePath":"datafiles","name":"dialogos.ini","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"narrador.ini","CopyToMask":-1,"filePath":"datafiles","name":"narrador.ini","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"tareascuerpo.ini","CopyToMask":-1,"filePath":"datafiles","name":"tareascuerpo.ini","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
