@@ -105,7 +105,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Mundo_Chikauak",
   "resources":[
@@ -130,6 +130,7 @@
     {"id":{"name":"obj_controlador_narrador","path":"objects/obj_controlador_narrador/obj_controlador_narrador.yy",},},
     {"id":{"name":"obj_controlador_trafico","path":"objects/obj_controlador_trafico/obj_controlador_trafico.yy",},},
     {"id":{"name":"obj_controlador_transiciones_camara","path":"objects/obj_controlador_transiciones_camara/obj_controlador_transiciones_camara.yy",},},
+    {"id":{"name":"obj_crear_cancion","path":"objects/obj_crear_cancion/obj_crear_cancion.yy",},},
     {"id":{"name":"obj_cuadro_base_tareas","path":"objects/obj_cuadro_base_tareas/obj_cuadro_base_tareas.yy",},},
     {"id":{"name":"obj_edificio_d","path":"objects/obj_edificio_d/obj_edificio_d.yy",},},
     {"id":{"name":"obj_edificio_e","path":"objects/obj_edificio_e/obj_edificio_e.yy",},},
@@ -150,8 +151,8 @@
     {"id":{"name":"obj_rectoria","path":"objects/obj_rectoria/obj_rectoria.yy",},},
     {"id":{"name":"obj_rejillas_rojas","path":"objects/obj_rejillas_rojas/obj_rejillas_rojas.yy",},},
     {"id":{"name":"obj_tarea_tip","path":"objects/obj_tarea_tip/obj_tarea_tip.yy",},},
-    {"id":{"name":"obj_crear_cancion","path":"objects/obj_crear_cancion/obj_crear_cancion.yy",},},
     {"id":{"name":"rm_agora","path":"rooms/rm_agora/rm_agora.yy",},},
+    {"id":{"name":"rm_biblioteca","path":"rooms/rm_biblioteca/rm_biblioteca.yy",},},
     {"id":{"name":"rm_estacionamiento","path":"rooms/rm_estacionamiento/rm_estacionamiento.yy",},},
     {"id":{"name":"rm_presentacion","path":"rooms/rm_presentacion/rm_presentacion.yy",},},
     {"id":{"name":"rm_pruebas_brian","path":"rooms/rm_pruebas_brian/rm_pruebas_brian.yy",},},
@@ -321,6 +322,7 @@
     {"roomId":{"name":"rm_pruebas_leo","path":"rooms/rm_pruebas_leo/rm_pruebas_leo.yy",},},
     {"roomId":{"name":"rm_pruebas_octa","path":"rooms/rm_pruebas_octa/rm_pruebas_octa.yy",},},
     {"roomId":{"name":"rm_pruebas_brian","path":"rooms/rm_pruebas_brian/rm_pruebas_brian.yy",},},
+    {"roomId":{"name":"rm_biblioteca","path":"rooms/rm_biblioteca/rm_biblioteca.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

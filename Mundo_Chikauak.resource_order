@@ -100,6 +100,7 @@
     {"name":"obj_rectoria","order":4,"path":"objects/obj_rectoria/obj_rectoria.yy",},
     {"name":"obj_rejillas_rojas","order":5,"path":"objects/obj_rejillas_rojas/obj_rejillas_rojas.yy",},
     {"name":"obj_tarea_tip","order":3,"path":"objects/obj_tarea_tip/obj_tarea_tip.yy",},
+    {"name":"rm_biblioteca","order":5,"path":"rooms/rm_biblioteca/rm_biblioteca.yy",},
     {"name":"rm_presentacion","order":4,"path":"rooms/rm_presentacion/rm_presentacion.yy",},
     {"name":"rm_pruebas_brian","order":7,"path":"rooms/rm_pruebas_brian/rm_pruebas_brian.yy",},
     {"name":"rm_pruebas_leo","order":8,"path":"rooms/rm_pruebas_leo/rm_pruebas_leo.yy",},
