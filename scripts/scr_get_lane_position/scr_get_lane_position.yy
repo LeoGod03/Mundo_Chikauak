@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_get_lane_position",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_lane_position",
+  "parent":{
+    "name":"Brian",
+    "path":"folders/Brian.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

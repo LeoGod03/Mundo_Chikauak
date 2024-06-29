@@ -56,4 +56,6 @@ function scr_global_variables()
 	global.recording=false;
 	global.notes=[];
 	global.start_time=0;
+	global.timer_started=false;
+	global.note_index=0;
 }
