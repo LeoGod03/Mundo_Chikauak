@@ -1,3 +1,3 @@
 /// @description cambiamos de room
 
-room_goto(rm_pruebas_brian);
+room_goto(rm_estacionamiento);
