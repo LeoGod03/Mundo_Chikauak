@@ -115,7 +115,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Mundo_Chikauak",
   "resources":[
@@ -144,7 +144,6 @@
     {"id":{"name":"obj_controlador_narrador","path":"objects/obj_controlador_narrador/obj_controlador_narrador.yy",},},
     {"id":{"name":"obj_controlador_trafico","path":"objects/obj_controlador_trafico/obj_controlador_trafico.yy",},},
     {"id":{"name":"obj_controlador_transiciones_camara","path":"objects/obj_controlador_transiciones_camara/obj_controlador_transiciones_camara.yy",},},
-    {"id":{"name":"obj_crear_cancion","path":"objects/obj_crear_cancion/obj_crear_cancion.yy",},},
     {"id":{"name":"obj_cuadro_base_tareas","path":"objects/obj_cuadro_base_tareas/obj_cuadro_base_tareas.yy",},},
     {"id":{"name":"obj_edificio_d","path":"objects/obj_edificio_d/obj_edificio_d.yy",},},
     {"id":{"name":"obj_edificio_e","path":"objects/obj_edificio_e/obj_edificio_e.yy",},},

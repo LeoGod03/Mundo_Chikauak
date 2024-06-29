@@ -14,7 +14,7 @@
   "managed":true,
   "name":"obj_coche_prueba_leo",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_coche","path":"objects/obj_coche/obj_coche.yy",},"propertyId":{"name":"velocity","path":"objects/obj_coche/obj_coche.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_coche","path":"objects/obj_coche/obj_coche.yy",},"propertyId":{"name":"velocity","path":"objects/obj_coche/obj_coche.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
   ],
   "parent":{
     "name":"Coches",
