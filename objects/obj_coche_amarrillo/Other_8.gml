@@ -1,7 +1,6 @@
 /// @description Inserte el evento del policia
 //instance_destroy();
-
-var _list = [[608, 320], [720, 320]];
+var _list = [[608, 320],[720,320]];
 destinity_x = -1;
 destinity_y = -1;
 

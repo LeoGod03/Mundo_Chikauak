@@ -35,6 +35,27 @@ function scr_global_variables()
     // arreglo de booleanos que nos diran si el lugar ya esta apartado
     global.place_parkin_free = array_create(14, false);
     
-    global.points_exit[0] = [[816, 352], [816, 288]];
+    global.points_exit[0] = [[816, 352], [816, 320]];
+    global.points_exit[1] = [[672, 672], [672, 352], [816, 352], [816, 320]];
     
+    global.points_entry[0] = [[368, 320]];
+    
+    global.points_entry[1] = [[368, 320], [432, 320], [432, 672]];
+    
+    global.points_entry_street = ds_map_create();
+    global.points_entry_street[?"right"] = [[368, 64], [368, 160]];
+    global.points_entry_street[?"left"] = [[368, 160]];
+    
+    global.points_exit_street = ds_map_create();
+    global.points_exit_street[?"right"] = [[816, 128], [1152, 128]];
+    global.points_exit_street[?"left"] = [[816, 64], [-128, 64]];
+    
+    global.index_car_movin = 0;
+    
+    //Variables de control del guittar 
+	global.recording=false;
+	global.notes=[];
+	global.start_time=0;
+	global.timer_started=false;
+	global.note_index=0;
 }

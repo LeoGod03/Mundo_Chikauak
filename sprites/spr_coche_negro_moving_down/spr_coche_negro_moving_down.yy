@@ -16,10 +16,6 @@
     {"$GMSpriteFrame":"","%Name":"b4c5623a-a74f-4016-a637-372bfbc70217","name":"b4c5623a-a74f-4016-a637-372bfbc70217","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"23e5a4d1-b145-4180-b4e8-e65ed695cd73","name":"23e5a4d1-b145-4180-b4e8-e65ed695cd73","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"13738229-0986-42a5-aec8-64a0d5fd184c","name":"13738229-0986-42a5-aec8-64a0d5fd184c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1994abbe-2207-486b-8e88-530cc513df93","name":"1994abbe-2207-486b-8e88-530cc513df93","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4d764823-6b5c-41e0-9545-3f0200789b6a","name":"4d764823-6b5c-41e0-9545-3f0200789b6a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ced03449-7e1d-4bf1-8b7c-0d02c50ba5e5","name":"ced03449-7e1d-4bf1-8b7c-0d02c50ba5e5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"650cf617-9f8c-483c-bdfb-12115b3a5e2a","name":"650cf617-9f8c-483c-bdfb-12115b3a5e2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -30,7 +26,7 @@
   ],
   "name":"spr_coche_negro_moving_down",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"coche negro",
     "path":"folders/Sprites/Coches/coche negro.yy",
@@ -56,7 +52,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":8.0,
+    "length":4.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -87,24 +83,12 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"13738229-0986-42a5-aec8-64a0d5fd184c","path":"sprites/spr_coche_negro_moving_down/spr_coche_negro_moving_down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"453a31f4-fd2e-48f9-9978-79cba7ac3df6","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1994abbe-2207-486b-8e88-530cc513df93","path":"sprites/spr_coche_negro_moving_down/spr_coche_negro_moving_down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b3d31459-d4cc-4590-8664-75b306ad082f","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4d764823-6b5c-41e0-9545-3f0200789b6a","path":"sprites/spr_coche_negro_moving_down/spr_coche_negro_moving_down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"908a568d-cbb9-4ccf-b878-24b2d2486107","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ced03449-7e1d-4bf1-8b7c-0d02c50ba5e5","path":"sprites/spr_coche_negro_moving_down/spr_coche_negro_moving_down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c2c97c7d-6b4f-4322-b8ed-3c61727f620b","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"650cf617-9f8c-483c-bdfb-12115b3a5e2a","path":"sprites/spr_coche_negro_moving_down/spr_coche_negro_moving_down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a594aab5-43d0-4e83-a281-3b55218473d5","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":32,
+    "yorigin":16,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

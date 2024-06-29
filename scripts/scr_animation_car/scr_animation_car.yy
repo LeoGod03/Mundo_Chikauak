@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_animation_car",
   "parent":{
-    "name":"Funcionalidad",
-    "path":"folders/Scripts/Funcionalidad.yy",
+    "name":"Coches",
+    "path":"folders/Scripts/Funcionalidad/Coches.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

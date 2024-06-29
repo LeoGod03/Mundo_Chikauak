@@ -1,14 +1,24 @@
-/// @description caminar hacia casilla
+/// @description preparamos ruta de entrada
+index_path = 0;
+points_parking = scr_get_points_parking();
 
-var _point_x = points[index_points][0];
-var _point_y = points[index_points][1];
+if(points_parking == noone)
+{
+    instance_destroy();
+    exit;
+}
 
 
-var _x_direction = (_point_x - x) / LENGHTGRID;
-var _y_direction = (_point_y - y) / LENGHTGRID;
+list_points = array_create(array_length(global.points_entry_street[?entry_face]),[]);
+   
 
-scr_movement_grid(_x_direction, _y_direction);
-//show_debug_message(string(_x_direction) + "/" + string(_y_direction));
-index_points ++;
-
-movement = false;
+    
+    
+var _index;
+for(_index = 0; _index < array_length(global.points_entry_street[?entry_face]); _index ++)
+        list_points[_index] = global.points_entry_street[?entry_face][_index];
+        
+collision = instance_create_depth(x, y, depth, obj_collision_car);
+collision.car_asigned = id;   
+mode_run = "entry";
+alarm[0] = game_get_speed(gamespeed_fps);

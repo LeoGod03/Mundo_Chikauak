@@ -5,7 +5,7 @@ if(quest)
 	draw_sprite(spr_circulo,-1,x,y);
 	draw_self();
 }
-else 
+else
 {
 	draw_self();
 }

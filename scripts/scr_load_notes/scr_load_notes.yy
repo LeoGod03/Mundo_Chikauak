@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_load_notes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_load_notes",
+  "parent":{
+    "name":"Brian",
+    "path":"folders/Brian.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
