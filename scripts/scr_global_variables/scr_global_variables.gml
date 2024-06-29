@@ -52,5 +52,8 @@ function scr_global_variables()
     
     global.index_car_movin = 0;
     
-    
+    //Variables de control del guittar 
+	global.recording=false;
+	global.notes=[];
+	global.start_time=0;
 }

@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_crear_cancion",
+  "%Name":"obj_circle_yellow",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_crear_cancion",
+  "name":"obj_circle_yellow",
   "overriddenProperties":[],
   "parent":{
     "name":"Brian",
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_circle_yellow",
+    "path":"sprites/spr_circle_yellow/spr_circle_yellow.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

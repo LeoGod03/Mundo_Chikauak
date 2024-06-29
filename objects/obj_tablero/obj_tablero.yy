@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_crear_cancion",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_tablero",
+  "eventList":[],
   "managed":true,
-  "name":"obj_crear_cancion",
+  "name":"obj_tablero",
   "overriddenProperties":[],
   "parent":{
     "name":"Brian",
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_tablero_guittar",
+    "path":"sprites/spr_tablero_guittar/spr_tablero_guittar.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
