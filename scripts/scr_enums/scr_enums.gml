@@ -10,5 +10,15 @@ function scr_enums()
        PARKED
     }
     
+    enum NOTIFICATION   
+    {   
+        TASK,
+        LOCALITATION,
+        INFORMATION,
+        CLOTHES,
+        ACHIEVEMENT
+        
+           
+    }
   
 }
