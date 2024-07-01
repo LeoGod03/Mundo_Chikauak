@@ -1,8 +1,8 @@
 // Los recursos de Script han cambiado para la v2.3.0 Consulta
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 para más información
-function scr_get_lane_position(lane)
+function scr_get_lane_position(_lane)
 {
-	switch(lane)
+	switch(_lane)
 	{
 		case 1: return 545;
 		case 2: return 608;

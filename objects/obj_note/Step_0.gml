@@ -3,4 +3,7 @@
 y+=5;
 
 if(y>=room_height)
+{
+	global.fallidas+=1;
 	instance_destroy();
+}

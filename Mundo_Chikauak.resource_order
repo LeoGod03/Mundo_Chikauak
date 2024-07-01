@@ -132,6 +132,7 @@
     {"name":"scr_priority_cars","order":3,"path":"scripts/scr_priority_cars/scr_priority_cars.yy",},
     {"name":"scr_split_pages_text","order":2,"path":"scripts/scr_split_pages_text/scr_split_pages_text.yy",},
     {"name":"scr_split_text","order":3,"path":"scripts/scr_split_text/scr_split_text.yy",},
+    {"name":"scr_update_spr_note","order":1,"path":"scripts/scr_update_spr_note/scr_update_spr_note.yy",},
     {"name":"Bajista_spin","order":1,"path":"sprites/Bajista_spin/Bajista_spin.yy",},
     {"name":"Baterista_spin","order":1,"path":"sprites/Baterista_spin/Baterista_spin.yy",},
     {"name":"Guitarrista_spin","order":1,"path":"sprites/Guitarrista_spin/Guitarrista_spin.yy",},

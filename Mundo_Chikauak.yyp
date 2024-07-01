@@ -202,6 +202,7 @@
     {"id":{"name":"scr_split_pages_text","path":"scripts/scr_split_pages_text/scr_split_pages_text.yy",},},
     {"id":{"name":"scr_split_text","path":"scripts/scr_split_text/scr_split_text.yy",},},
     {"id":{"name":"scr_update_npc","path":"scripts/scr_update_npc/scr_update_npc.yy",},},
+    {"id":{"name":"scr_update_spr_note","path":"scripts/scr_update_spr_note/scr_update_spr_note.yy",},},
     {"id":{"name":"snd_cancion_guittar","path":"sounds/snd_cancion_guittar/snd_cancion_guittar.yy",},},
     {"id":{"name":"Bajista_idle","path":"sprites/Bajista_idle/Bajista_idle.yy",},},
     {"id":{"name":"Bajista_spin","path":"sprites/Bajista_spin/Bajista_spin.yy",},},
