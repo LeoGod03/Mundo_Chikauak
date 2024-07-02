@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Octa",
-    "path":"folders/Octa.yy",
+    "name":"estructura de agora",
+    "path":"folders/Octa/estructura de agora.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

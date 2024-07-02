@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_circle_yellow",
-    "path":"sprites/spr_circle_yellow/spr_circle_yellow.yy",
+    "name":"spr_circle_blue",
+    "path":"sprites/spr_circle_blue/spr_circle_blue.yy",
   },
   "spriteMaskId":null,
   "visible":true,
