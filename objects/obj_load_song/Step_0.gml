@@ -4,7 +4,7 @@ if(keyboard_check_pressed(vk_space))
 {
 	scr_load_notes();
 	audio_play_sound(snd_cancion_guittar,1,false);
-	global.start_time=game_get_speed(gamespeed_fps)*8.15;
+	global.start_time=fps*8.15;
 }
 time_current=current_time-global.start_time;
 if(global.note_index<array_length(global.notes))
