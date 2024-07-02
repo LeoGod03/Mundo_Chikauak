@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":230.11266,
+  "duration":0.0,
   "name":"snd_cancion_guittar",
   "parent":{
     "name":"Brian",

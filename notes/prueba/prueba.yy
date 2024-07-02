@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"prueba",
+  "name":"prueba",
+  "parent":{
+    "name":"Octa",
+    "path":"folders/Octa.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

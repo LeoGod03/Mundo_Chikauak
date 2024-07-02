@@ -12,10 +12,7 @@
     "name":"Policias",
     "path":"folders/Objetos/NPC/Policias.yy",
   },
-  "parentObjectId":{
-    "name":"obj_human",
-    "path":"objects/obj_human/obj_human.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
