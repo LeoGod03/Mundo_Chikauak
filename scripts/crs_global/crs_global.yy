@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"crs_global",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"crs_global",
+  "parent":{
+    "name":"Octa",
+    "path":"folders/Octa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
