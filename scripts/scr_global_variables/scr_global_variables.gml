@@ -1,3 +1,4 @@
+
 function scr_global_variables()
 {
     global.controls = { // estruct para los controles

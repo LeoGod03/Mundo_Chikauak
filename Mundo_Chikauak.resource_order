@@ -87,6 +87,7 @@
   "ResourceOrderSettings":[
     {"name":"fnt_narrador","order":1,"path":"fonts/fnt_narrador/fnt_narrador.yy",},
     {"name":"fnt_task","order":1,"path":"fonts/fnt_task/fnt_task.yy",},
+    {"name":"prueba","order":24,"path":"notes/prueba/prueba.yy",},
     {"name":"obj_arbol_dos","order":2,"path":"objects/obj_arbol_dos/obj_arbol_dos.yy",},
     {"name":"obj_arbol_tres","order":1,"path":"objects/obj_arbol_tres/obj_arbol_tres.yy",},
     {"name":"obj_banqueta","order":9,"path":"objects/obj_banqueta/obj_banqueta.yy",},
@@ -96,8 +97,6 @@
     {"name":"obj_boton_press_yellow","order":3,"path":"objects/obj_boton_press_yellow/obj_boton_press_yellow.yy",},
     {"name":"obj_caseta","order":6,"path":"objects/obj_caseta/obj_caseta.yy",},
     {"name":"obj_chikahuak","order":1,"path":"objects/obj_chikahuak/obj_chikahuak.yy",},
-    {"name":"obj_coche_prueba_leo","order":1,"path":"objects/obj_coche_prueba_leo/obj_coche_prueba_leo.yy",},
-    {"name":"obj_coche","order":2,"path":"objects/obj_coche/obj_coche.yy",},
     {"name":"obj_collision_car","order":2,"path":"objects/obj_collision_car/obj_collision_car.yy",},
     {"name":"obj_controlador_mapa","order":5,"path":"objects/obj_controlador_mapa/obj_controlador_mapa.yy",},
     {"name":"obj_controlador_narrador","order":1,"path":"objects/obj_controlador_narrador/obj_controlador_narrador.yy",},
